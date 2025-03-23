@@ -1,0 +1,2001 @@
+Location,Area,Bedroom,Bathroom,Floor,View,Facing,Elevator,Payment System,Price
+New Administrative Capital,160,3,3,5,Garden,South,Yes,Cash,4400000
+Heliopolis,140,3,3,4,Apartment Building,North,Yes,Instalment,3500000
+Zahraa El Maadi,150,3,2,2,Street,North,Yes,Cash,4500000
+First Settlement,140,3,2,2,Garden,North,Yes,Cash,3100000
+Rod El Farag,180,3,3,5,Garden,South,Yes,Cash,4300000
+Zahraa El Maadi,90,2,1,2,Garden,North,No,Instalment,1600000
+El Mataria,120,2,1,1,Street,South,No,Instalment,1600000
+El Moneeb,100,2,1,1,Apartment,North,Yes,Cash,1300000
+First Settlement,90,2,1,5,Street,South,Yes,Instalment,1700000
+6th of October,150,3,2,4,Apartment,North,No,Instalment,3900000
+Sheikh Zayed,160,3,2,6,Apartment,South,Yes,Cash,4900000
+Sayeda Zeinab,170,3,3,3,Garden,North,No,Cash,3200000
+El Mataria,180,3,3,2,Garden,South,No,Cash,3400000
+El Manial,190,4,3,5,Street,South,Yes,Cash,7700000
+Sheraton,90,2,1,4,Apartment,South,No,Instalment,1800000
+El Fustat,140,3,2,6,Garden,North,Yes,Cash,3600000
+Hadayek El Kobba,130,2,1,1,Apartment,North,No,Cash,3000000
+Second Settlement,120,2,1,4,Street,South,No,Instalment,1300000
+Hadayek El Kobba,160,3,2,2,Garden,North,Yes,Instalment,4900000
+Hadayek El Ahram,150,3,2,3,Garden,North,Yes,Instalment,3800000
+Sheraton,140,3,2,4,Apartment Building,North,No,Instalment,3900000
+El Manial,130,3,2,2,Street,South,No,Cash,4500000
+El Moneeb,90,2,1,3,Garden,North,No,Cash,1300000
+6th of October,120,2,1,4,Garden,South,No,Instalment,1500000
+Madinaty,100,2,1,5,Garden,North,No,Cash,1000000
+El Nozha,90,2,1,6,Street,South,Yes,Instalment,1300000
+El Nozha,150,3,2,1,Apartment,North,No,Cash,4400000
+El Rehab,140,3,2,4,Street,South,No,Instalment,3600000
+Third Settlement,160,3,2,2,Apartment,North,No,Cash,4100000
+Rod El Farag,140,3,2,2,Apartment,South,Yes,Cash,4100000
+Shubra,150,3,2,4,Garden,South,No,Cash,4600000
+El Manial,90,2,1,5,Garden,South,No,Cash,1600000
+Sayeda Zeinab,100,2,1,6,Street,North,No,Instalment,1700000
+Zahraa Nasr City,120,2,1,1,Apartment,North,No,Cash,1900000
+New Administrative Capital,110,2,1,4,Garden,South,Yes,Instalment,1500000
+El Basatin,90,2,1,2,Apartment,North,No,Cash,1800000
+El Warraq,180,3,3,5,Street,North,No,Instalment,4500000
+El Basatin,120,2,1,3,Garden,North,Yes,Instalment,1800000
+Faisal,130,2,1,6,Garden,South,Yes,Cash,4100000
+Sheraton,200,4,3,5,Apartment Building,North,No,Instalment,7600000
+El Rehab,150,3,2,1,Street,South,No,Cash,4100000
+Zahraa Nasr City,130,3,2,4,Garden,North,No,Cash,3000000
+Nasr City,120,2,1,2,Garden,South,No,Cash,1300000
+Zamalek,110,2,1,4,Garden,North,No,Instalment,1100000
+Second Settlement,100,2,1,3,Street,South,Yes,Instalment,1500000
+El Manial,250,4,3,6,Apartment,North,No,Cash,8700000
+El Zawya El Hamra,200,4,3,4,Street,South,No,Instalment,6600000
+El Warraq,180,3,3,1,Apartment,South,No,Instalment,4800000
+Muqattam,160,3,3,2,Apartment,South,No,Cash,4400000
+El Haram,90,2,1,4,Garden,North,Yes,Cash,1300000
+Sayeda Zeinab,100,2,1,3,Garden,North,No,Cash,1100000
+Zahraa Nasr City,120,2,1,5,Street,South,No,Cash,1800000
+Muqattam,140,3,2,2,Apartment,North,Yes,Instalment,3100000
+Sayeda Zeinab,200,4,3,1,Garden,North,Yes,Cash,5800000
+Maadi ,140,3,2,4,Apartment,North,No,Cash,4600000
+Fifth Settlement,150,3,3,3,Street,South,No,Instalment,4900000
+El Manial,180,4,3,5,Garden,North,No,Instalment,3800000
+Fourth Settlement,90,2,1,6,Garden,South,No,Instalment,1900000
+El Sharabiya,140,3,2,6,Apartment Building,North,No,Instalment,3300000
+Fifth Settlement,150,3,3,1,Street,South,Yes,Cash,4700000
+Imbaba,160,3,3,5,Garden,South,Yes,Cash,4400000
+El Mostakbal,140,3,3,4,Apartment Building,North,Yes,Instalment,3500000
+Fifth Settlement,150,3,2,2,Street,North,Yes,Cash,4500000
+Maadi ,140,3,2,2,Garden,North,Yes,Cash,3100000
+El Mataria,180,3,3,5,Garden,South,Yes,Cash,4300000
+Dokki,90,2,1,2,Garden,North,No,Instalment,1600000
+El Zawya El Hamra,120,2,1,1,Street,South,No,Instalment,1600000
+Third Settlement,100,2,1,1,Apartment,North,Yes,Cash,1300000
+El Moneeb,90,2,1,5,Street,South,Yes,Instalment,1700000
+Dokki,150,3,2,4,Apartment,North,No,Instalment,3900000
+Zahraa El Maadi,160,3,2,6,Apartment,South,Yes,Cash,4900000
+Ain Shams,170,3,3,3,Garden,North,No,Cash,3200000
+Badr ,180,3,3,2,Garden,South,No,Cash,3400000
+El Azbakeya,190,4,3,5,Street,South,Yes,Cash,7700000
+El Fustat,90,2,1,4,Apartment,South,No,Instalment,1800000
+Mostorod,140,3,2,6,Garden,North,Yes,Cash,3600000
+6th of October,130,2,1,1,Apartment,North,No,Cash,3000000
+Zahraa Nasr City,120,2,1,4,Street,South,No,Instalment,1300000
+Second Settlement,160,3,2,2,Garden,North,Yes,Instalment,4900000
+El Shorouk,150,3,2,3,Garden,North,Yes,Instalment,3800000
+Maadi ,140,3,2,4,Apartment Building,North,No,Instalment,3900000
+El Obour,130,3,2,2,Street,South,No,Cash,4500000
+El Amireya,90,2,1,3,Garden,North,No,Cash,1300000
+New Sphinx,120,2,1,4,Garden,South,No,Instalment,1500000
+Nasr City,100,2,1,5,Garden,North,No,Cash,1000000
+El Azbakeya,90,2,1,6,Street,South,Yes,Instalment,1300000
+Faisal,150,3,2,1,Apartment,North,No,Cash,4400000
+Faisal,140,3,2,4,Street,South,No,Instalment,3600000
+Abdeen ,160,3,2,2,Apartment,North,No,Cash,4100000
+El Zawya El Hamra,140,3,2,2,Apartment,South,Yes,Cash,4100000
+Sheikh Zayed,150,3,2,4,Garden,South,No,Cash,4600000
+El Warraq,90,2,1,5,Garden,South,No,Cash,1600000
+El Basatin,100,2,1,6,Street,North,No,Instalment,1700000
+El Faggala,120,2,1,1,Apartment,North,No,Cash,1900000
+Mostorod,110,2,1,4,Garden,South,Yes,Instalment,1500000
+Imbaba,90,2,1,2,Apartment,North,No,Cash,1800000
+El Moneeb,180,3,3,5,Street,North,No,Instalment,4500000
+Imbaba,120,2,1,3,Garden,North,Yes,Instalment,1800000
+Madinaty,130,2,1,6,Garden,South,Yes,Cash,4100000
+Nasr City,200,4,3,5,Apartment Building,North,No,Instalment,7600000
+Fourth Settlement,150,3,2,1,Street,South,No,Cash,4100000
+Imbaba,130,3,2,4,Garden,North,No,Cash,3000000
+Maadi ,120,2,1,2,Garden,South,No,Cash,1300000
+El Omraniya,110,2,1,4,Garden,North,No,Instalment,1100000
+Helwan,100,2,1,3,Street,South,Yes,Instalment,1500000
+El Nozha,250,4,3,6,Apartment,North,No,Cash,8700000
+El Salam,200,4,3,4,Street,South,No,Instalment,6600000
+Fourth Settlement,180,3,3,1,Apartment,South,No,Instalment,4800000
+Nasr City,160,3,3,2,Apartment,South,No,Cash,4400000
+El Rehab,90,2,1,4,Garden,North,Yes,Cash,1300000
+El Moneeb,100,2,1,3,Garden,North,No,Cash,1100000
+El Nozha,120,2,1,5,Street,South,No,Cash,1800000
+Gesr El Suez,140,3,2,2,Apartment,North,Yes,Instalment,3100000
+El Warraq,200,4,3,1,Garden,North,Yes,Cash,5800000
+El Nozha,140,3,2,4,Apartment,North,No,Cash,4600000
+El Marg,150,3,3,3,Street,South,No,Instalment,4900000
+Ain Shams,180,4,3,5,Garden,North,No,Instalment,3800000
+Zahraa El Maadi,90,2,1,6,Garden,South,No,Instalment,1900000
+Hadayek El Ahram,140,3,2,6,Apartment Building,North,No,Instalment,3300000
+Zamalek,150,3,3,1,Street,South,Yes,Cash,4700000
+Shubra El Kheima,160,3,3,5,Garden,South,Yes,Cash,4400000
+Fourth Settlement,140,3,3,4,Apartment Building,North,Yes,Instalment,3500000
+El Zawya El Hamra,150,3,2,2,Street,North,Yes,Cash,4500000
+Sheraton,140,3,2,2,Garden,North,Yes,Cash,3100000
+Imbaba,180,3,3,5,Garden,South,Yes,Cash,4300000
+El Mohandessin,90,2,1,2,Garden,North,No,Instalment,1600000
+El Manial,120,2,1,1,Street,South,No,Instalment,1600000
+El Mohandessin,100,2,1,1,Apartment,North,Yes,Cash,1300000
+Heliopolis,90,2,1,5,Street,South,Yes,Instalment,1700000
+Kattameya,150,3,2,4,Apartment,North,No,Instalment,3900000
+Imbaba,160,3,2,6,Apartment,South,Yes,Cash,4900000
+Zahraa El Maadi,170,3,3,3,Garden,North,No,Cash,3200000
+Mostorod,180,3,3,2,Garden,South,No,Cash,3400000
+El Warraq,190,4,3,5,Street,South,Yes,Cash,7700000
+El Marg,90,2,1,4,Apartment,South,No,Instalment,1800000
+Ain Shams,140,3,2,6,Garden,North,Yes,Cash,3600000
+Faisal,130,2,1,1,Apartment,North,No,Cash,3000000
+Zamalek,120,2,1,4,Street,South,No,Instalment,1300000
+El Shorouk,160,3,2,2,Garden,North,Yes,Instalment,4900000
+El Manial,150,3,2,3,Garden,North,Yes,Instalment,3800000
+Heliopolis,140,3,2,4,Apartment Building,North,No,Instalment,3900000
+Kattameya,130,3,2,2,Street,South,No,Cash,4500000
+El Mohandessin,90,2,1,3,Garden,North,No,Cash,1300000
+El Marg,120,2,1,4,Garden,South,No,Instalment,1500000
+Kattameya,100,2,1,5,Garden,North,No,Cash,1000000
+El Omraniya,90,2,1,6,Street,South,Yes,Instalment,1300000
+Hadayek October,150,3,2,1,Apartment,North,No,Cash,4400000
+Helwan,140,3,2,4,Street,South,No,Instalment,3600000
+Heliopolis,160,3,2,2,Apartment,North,No,Cash,4100000
+New Administrative Capital,140,3,2,2,Apartment,South,Yes,Cash,4100000
+El Obour,150,3,2,4,Garden,South,No,Cash,4600000
+El Warraq,90,2,1,5,Garden,South,No,Cash,1600000
+El Obour,100,2,1,6,Street,North,No,Instalment,1700000
+El Mataria,120,2,1,1,Apartment,North,No,Cash,1900000
+Zahraa Nasr City,110,2,1,4,Garden,South,Yes,Instalment,1500000
+Badr ,90,2,1,2,Apartment,North,No,Cash,1800000
+Sheraton,180,3,3,5,Street,North,No,Instalment,4500000
+Heliopolis,120,2,1,3,Garden,North,Yes,Instalment,1800000
+El Amireya,130,2,1,6,Garden,South,Yes,Cash,4100000
+El Salam,200,4,3,5,Apartment Building,North,No,Instalment,7600000
+Muqattam,150,3,2,1,Street,South,No,Cash,4100000
+Hadayek October,130,3,2,4,Garden,North,No,Cash,3000000
+El Warraq,120,2,1,2,Garden,South,No,Cash,1300000
+Mostorod,110,2,1,4,Garden,North,No,Instalment,1100000
+El Nozha,100,2,1,3,Street,South,Yes,Instalment,1500000
+Mostorod,250,4,3,6,Apartment,North,No,Cash,8700000
+El Haram,200,4,3,4,Street,South,No,Instalment,6600000
+El Sharabiya,180,3,3,1,Apartment,South,No,Instalment,4800000
+El Abbasiya,160,3,3,2,Apartment,South,No,Cash,4400000
+El Zawya El Hamra,90,2,1,4,Garden,North,Yes,Cash,1300000
+El Waili,100,2,1,3,Garden,North,No,Cash,1100000
+El Shorouk,120,2,1,5,Street,South,No,Cash,1800000
+El Basatin,140,3,2,2,Apartment,North,Yes,Instalment,3100000
+El Mataria,200,4,3,1,Garden,North,Yes,Cash,5800000
+El Moneeb,140,3,2,4,Apartment,North,No,Cash,4600000
+El Rehab,150,3,3,3,Street,South,No,Instalment,4900000
+Madinaty,180,4,3,5,Garden,North,No,Instalment,3800000
+Shubra El Kheima,90,2,1,6,Garden,South,No,Instalment,1900000
+El Azbakeya,140,3,2,6,Apartment Building,North,No,Instalment,3300000
+Sayeda Zeinab,150,3,3,1,Street,South,Yes,Cash,4700000
+El Mostakbal,160,3,3,5,Garden,South,Yes,Cash,4400000
+First Settlement,140,3,3,4,Apartment Building,North,Yes,Instalment,3500000
+El Mostakbal,150,3,2,2,Street,North,Yes,Cash,4500000
+Faisal,140,3,2,2,Garden,North,Yes,Cash,3100000
+El Zawya El Hamra,180,3,3,5,Garden,South,Yes,Cash,4300000
+Hadayek El Ahram,90,2,1,2,Garden,North,No,Instalment,1600000
+El Marg,120,2,1,1,Street,South,No,Instalment,1600000
+El Nozha,100,2,1,1,Apartment,North,Yes,Cash,1300000
+El Omraniya,90,2,1,5,Street,South,Yes,Instalment,1700000
+Shubra El Kheima,150,3,2,4,Apartment,North,No,Instalment,3900000
+Madinaty,160,3,2,6,Apartment,South,Yes,Cash,4900000
+El Basatin,170,3,3,3,Garden,North,No,Cash,3200000
+El Rehab,180,3,3,2,Garden,South,No,Cash,3400000
+El Moneeb,190,4,3,5,Street,South,Yes,Cash,7700000
+El Warraq,90,2,1,4,Apartment,South,No,Instalment,1800000
+El Sharabiya,140,3,2,6,Garden,North,Yes,Cash,3600000
+Shubra El Kheima,130,2,1,1,Apartment,North,No,Cash,3000000
+Badr ,120,2,1,4,Street,South,No,Instalment,1300000
+Imbaba,160,3,2,2,Garden,North,Yes,Instalment,4900000
+El Moneeb,150,3,2,3,Garden,North,Yes,Instalment,3800000
+Third Settlement,140,3,2,4,Apartment Building,North,No,Instalment,3900000
+El Mohandessin,130,3,2,2,Street,South,No,Cash,4500000
+Heliopolis,90,2,1,3,Garden,North,No,Cash,1300000
+New Administrative Capital,120,2,1,4,Garden,South,No,Instalment,1500000
+Hadayek October,100,2,1,5,Garden,North,No,Cash,1000000
+El Faggala,90,2,1,6,Street,South,Yes,Instalment,1300000
+Sayeda Zeinab,150,3,2,1,Apartment,North,No,Cash,4400000
+Badr ,140,3,2,4,Street,South,No,Instalment,3600000
+El Amireya,160,3,2,2,Apartment,North,No,Cash,4100000
+Ain Shams,140,3,2,2,Apartment,South,Yes,Cash,4100000
+Hadayek El Kobba,150,3,2,4,Garden,South,No,Cash,4600000
+6th of October,90,2,1,5,Garden,South,No,Cash,1600000
+El Warraq,100,2,1,6,Street,North,No,Instalment,1700000
+Second Settlement,120,2,1,1,Apartment,North,No,Cash,1900000
+Abdeen ,110,2,1,4,Garden,South,Yes,Instalment,1500000
+Sheraton,90,2,1,2,Apartment,North,No,Cash,1800000
+El Faggala,180,3,3,5,Street,North,No,Instalment,4500000
+Hadayek October,120,2,1,3,Garden,North,Yes,Instalment,1800000
+Sheikh Zayed,130,2,1,6,Garden,South,Yes,Cash,4100000
+Zamalek,200,4,3,5,Apartment Building,North,No,Instalment,7600000
+El Basatin,150,3,2,1,Street,South,No,Cash,4100000
+Fourth Settlement,130,3,2,4,Garden,North,No,Cash,3000000
+El Nozha,120,2,1,2,Garden,South,No,Cash,1300000
+Hadayek October,110,2,1,4,Garden,North,No,Instalment,1100000
+Zahraa El Maadi,100,2,1,3,Street,South,Yes,Instalment,1500000
+Sheraton,250,4,3,6,Apartment,North,No,Cash,8700000
+Zahraa El Maadi,200,4,3,4,Street,South,No,Instalment,6600000
+El Waili,180,3,3,1,Apartment,South,No,Instalment,4800000
+El Azbakeya,160,3,3,2,Apartment,South,No,Cash,4400000
+El Azbakeya,90,2,1,4,Garden,North,Yes,Cash,1300000
+El Mostakbal,100,2,1,3,Garden,North,No,Cash,1100000
+El Waili,120,2,1,5,Street,South,No,Cash,1800000
+New Sphinx,140,3,2,2,Apartment,North,Yes,Instalment,3100000
+El Faggala,200,4,3,1,Garden,North,Yes,Cash,5800000
+El Manial,140,3,2,4,Apartment,North,No,Cash,4600000
+El Manial,150,3,3,3,Street,South,No,Instalment,4900000
+Zahraa Nasr City,180,4,3,5,Garden,North,No,Instalment,3800000
+El Haram,90,2,1,6,Garden,South,No,Instalment,1900000
+El Basatin,140,3,2,6,Apartment Building,North,No,Instalment,3300000
+Third Settlement,150,3,3,1,Street,South,Yes,Cash,4700000
+Ain Shams,160,3,3,5,Garden,South,Yes,Cash,4400000
+Abdeen ,140,3,3,4,Apartment Building,North,Yes,Instalment,3500000
+Faisal,150,3,2,2,Street,North,Yes,Cash,4500000
+Kattameya,140,3,2,2,Garden,North,Yes,Cash,3100000
+Sheraton,180,3,3,5,Garden,South,Yes,Cash,4300000
+New Sphinx,90,2,1,2,Garden,North,No,Instalment,1600000
+El Warraq,120,2,1,1,Street,South,No,Instalment,1600000
+El Obour,100,2,1,1,Apartment,North,Yes,Cash,1300000
+Shubra,90,2,1,5,Street,South,Yes,Instalment,1700000
+El Omraniya,150,3,2,4,Apartment,North,No,Instalment,3900000
+El Manial,160,3,2,6,Apartment,South,Yes,Cash,4900000
+First Settlement,170,3,3,3,Garden,North,No,Cash,3200000
+El Salam,180,3,3,2,Garden,South,No,Cash,3400000
+Helwan,190,4,3,5,Street,South,Yes,Cash,7700000
+El Amireya,90,2,1,4,Apartment,South,No,Instalment,1800000
+New Sphinx,140,3,2,6,Garden,North,Yes,Cash,3600000
+El Basatin,130,2,1,1,Apartment,North,No,Cash,3000000
+El Mostakbal,120,2,1,4,Street,South,No,Instalment,1300000
+Boulak El Dakrour,160,3,2,2,Garden,North,Yes,Instalment,4900000
+First Settlement,150,3,2,3,Garden,North,Yes,Instalment,3800000
+El Mostakbal,140,3,2,4,Apartment Building,North,No,Instalment,3900000
+El Moneeb,130,3,2,2,Street,South,No,Cash,4500000
+Sayeda Zeinab,90,2,1,3,Garden,North,No,Cash,1300000
+Boulak El Dakrour,120,2,1,4,Garden,South,No,Instalment,1500000
+Zahraa El Maadi,100,2,1,5,Garden,North,No,Cash,1000000
+Madinaty,90,2,1,6,Street,South,Yes,Instalment,1300000
+El Moneeb,150,3,2,1,Apartment,North,No,Cash,4400000
+El Amireya,140,3,2,4,Street,South,No,Instalment,3600000
+Ain Shams,160,3,2,2,Apartment,North,No,Cash,4100000
+Imbaba,140,3,2,2,Apartment,South,Yes,Cash,4100000
+El Manial,150,3,2,4,Garden,South,No,Cash,4600000
+El Mohandessin,90,2,1,5,Garden,South,No,Cash,1600000
+Badr ,100,2,1,6,Street,North,No,Instalment,1700000
+El Rehab,120,2,1,1,Apartment,North,No,Cash,1900000
+Zamalek,110,2,1,4,Garden,South,Yes,Instalment,1500000
+El Sharabiya,90,2,1,2,Apartment,North,No,Cash,1800000
+Muqattam,180,3,3,5,Street,North,No,Instalment,4500000
+Third Settlement,120,2,1,3,Garden,North,Yes,Instalment,1800000
+El Moneeb,130,2,1,6,Garden,South,Yes,Cash,4100000
+El Mataria,200,4,3,5,Apartment Building,North,No,Instalment,7600000
+Muqattam,150,3,2,1,Street,South,No,Cash,4100000
+Shubra El Kheima,130,3,2,4,Garden,North,No,Cash,3000000
+El Basatin,120,2,1,2,Garden,South,No,Cash,1300000
+Fifth Settlement,110,2,1,4,Garden,North,No,Instalment,1100000
+Abdeen ,100,2,1,3,Street,South,Yes,Instalment,1500000
+Helwan,250,4,3,6,Apartment,North,No,Cash,8700000
+Faisal,200,4,3,4,Street,South,No,Instalment,6600000
+El Basatin,180,3,3,1,Apartment,South,No,Instalment,4800000
+Zahraa El Maadi,160,3,3,2,Apartment,South,No,Cash,4400000
+El Sharabiya,90,2,1,4,Garden,North,Yes,Cash,1300000
+Sheraton,100,2,1,3,Garden,North,No,Cash,1100000
+Imbaba,120,2,1,5,Street,South,No,Cash,1800000
+Heliopolis,140,3,2,2,Apartment,North,Yes,Instalment,3100000
+Hadayek El Ahram,200,4,3,1,Garden,North,Yes,Cash,5800000
+El Moneeb,140,3,2,4,Apartment,North,No,Cash,4600000
+Fourth Settlement,150,3,3,3,Street,South,No,Instalment,4900000
+Zamalek,180,4,3,5,Garden,North,No,Instalment,3800000
+El Nozha,90,2,1,6,Garden,South,No,Instalment,1900000
+El Abbasiya,140,3,2,6,Apartment Building,North,No,Instalment,3300000
+Zahraa Nasr City,150,3,3,1,Street,South,Yes,Cash,4700000
+Abdeen ,160,3,3,5,Garden,South,Yes,Cash,4400000
+Fourth Settlement,140,3,3,4,Apartment Building,North,Yes,Instalment,3500000
+Sheikh Zayed,150,3,2,2,Street,North,Yes,Cash,4500000
+El Azbakeya,140,3,2,2,Garden,North,Yes,Cash,3100000
+New Administrative Capital,180,3,3,5,Garden,South,Yes,Cash,4300000
+Helwan,90,2,1,2,Garden,North,No,Instalment,1600000
+Imbaba,120,2,1,1,Street,South,No,Instalment,1600000
+Helwan,100,2,1,1,Apartment,North,Yes,Cash,1300000
+Boulak El Dakrour,90,2,1,5,Street,South,Yes,Instalment,1700000
+El Basatin,150,3,2,4,Apartment,North,No,Instalment,3900000
+Nasr City,160,3,2,6,Apartment,South,Yes,Cash,4900000
+New Sphinx,170,3,3,3,Garden,North,No,Cash,3200000
+Rod El Farag,180,3,3,2,Garden,South,No,Cash,3400000
+Sheraton,190,4,3,5,Street,South,Yes,Cash,7700000
+El Rehab,90,2,1,4,Apartment,South,No,Instalment,1800000
+El Azbakeya,140,3,2,6,Garden,North,Yes,Cash,3600000
+El Omraniya,130,2,1,1,Apartment,North,No,Cash,3000000
+Zahraa Nasr City,120,2,1,4,Street,South,No,Instalment,1300000
+Muqattam,160,3,2,2,Garden,North,Yes,Instalment,4900000
+Zahraa El Maadi,150,3,2,3,Garden,North,Yes,Instalment,3800000
+El Manial,140,3,2,4,Apartment Building,North,No,Instalment,3900000
+Kattameya,130,3,2,2,Street,South,No,Cash,4500000
+El Haram,90,2,1,3,Garden,North,No,Cash,1300000
+6th of October,120,2,1,4,Garden,South,No,Instalment,1500000
+El Basatin,100,2,1,5,Garden,North,No,Cash,1000000
+Badr ,90,2,1,6,Street,South,Yes,Instalment,1300000
+El Rehab,150,3,2,1,Apartment,North,No,Cash,4400000
+Zahraa Nasr City,140,3,2,4,Street,South,No,Instalment,3600000
+Faisal,160,3,2,2,Apartment,North,No,Cash,4100000
+Boulak El Dakrour,140,3,2,2,Apartment,South,Yes,Cash,4100000
+El Mostakbal,150,3,2,4,Garden,South,No,Cash,4600000
+El Sharabiya,90,2,1,5,Garden,South,No,Cash,1600000
+El Mostakbal,100,2,1,6,Street,North,No,Instalment,1700000
+Dokki,120,2,1,1,Apartment,North,No,Cash,1900000
+El Sharabiya,110,2,1,4,Garden,South,Yes,Instalment,1500000
+Sheikh Zayed,90,2,1,2,Apartment,North,No,Cash,1800000
+Zahraa Nasr City,180,3,3,5,Street,North,No,Instalment,4500000
+First Settlement,120,2,1,3,Garden,North,Yes,Instalment,1800000
+Agouza ,130,2,1,6,Garden,South,Yes,Cash,4100000
+Sheraton,200,4,3,5,Apartment Building,North,No,Instalment,7600000
+Zamalek,150,3,2,1,Street,South,No,Cash,4100000
+New Administrative Capital,130,3,2,4,Garden,North,No,Cash,3000000
+El Amireya,120,2,1,2,Garden,South,No,Cash,1300000
+Hadayek El Ahram,110,2,1,4,Garden,North,No,Instalment,1100000
+6th of October,100,2,1,3,Street,South,Yes,Instalment,1500000
+El Waili,250,4,3,6,Apartment,North,No,Cash,8700000
+El Omraniya,200,4,3,4,Street,South,No,Instalment,6600000
+Third Settlement,180,3,3,1,Apartment,South,No,Instalment,4800000
+Muqattam,160,3,3,2,Apartment,South,No,Cash,4400000
+El Mostakbal,90,2,1,4,Garden,North,Yes,Cash,1300000
+New Sphinx,100,2,1,3,Garden,North,No,Cash,1100000
+Madinaty,120,2,1,5,Street,South,No,Cash,1800000
+Sayeda Zeinab,140,3,2,2,Apartment,North,Yes,Instalment,3100000
+El Omraniya,200,4,3,1,Garden,North,Yes,Cash,5800000
+6th of October,140,3,2,4,Apartment,North,No,Cash,4600000
+Helwan,150,3,3,3,Street,South,No,Instalment,4900000
+Hadayek October,180,4,3,5,Garden,North,No,Instalment,3800000
+First Settlement,90,2,1,6,Garden,South,No,Instalment,1900000
+Faisal,140,3,2,6,Apartment Building,North,No,Instalment,3300000
+Zamalek,150,3,3,1,Street,South,Yes,Cash,4700000
+First Settlement,160,3,3,5,Garden,South,Yes,Cash,4400000
+El Abbasiya,140,3,3,4,Apartment Building,North,Yes,Instalment,3500000
+Second Settlement,150,3,2,2,Street,North,Yes,Cash,4500000
+Sheraton,140,3,2,2,Garden,North,Yes,Cash,3100000
+Boulak El Dakrour,180,3,3,5,Garden,South,Yes,Cash,4300000
+El Moneeb,90,2,1,2,Garden,North,No,Instalment,1600000
+Imbaba,120,2,1,1,Street,South,No,Instalment,1600000
+El Marg,100,2,1,1,Apartment,North,Yes,Cash,1300000
+Sheikh Zayed,90,2,1,5,Street,South,Yes,Instalment,1700000
+Hadayek El Kobba,150,3,2,4,Apartment,North,No,Instalment,3900000
+El Amireya,160,3,2,6,Apartment,South,Yes,Cash,4900000
+6th of October,170,3,3,3,Garden,North,No,Cash,3200000
+Zahraa Nasr City,180,3,3,2,Garden,South,No,Cash,3400000
+El Faggala,190,4,3,5,Street,South,Yes,Cash,7700000
+Sayeda Zeinab,90,2,1,4,Apartment,South,No,Instalment,1800000
+6th of October,140,3,2,6,Garden,North,Yes,Cash,3600000
+New Administrative Capital,130,2,1,1,Apartment,North,No,Cash,3000000
+Fourth Settlement,120,2,1,4,Street,South,No,Instalment,1300000
+Hadayek El Ahram,160,3,2,2,Garden,North,Yes,Instalment,4900000
+New Administrative Capital,150,3,2,3,Garden,North,Yes,Instalment,3800000
+El Salam,140,3,2,4,Apartment Building,North,No,Instalment,3900000
+Dokki,130,3,2,2,Street,South,No,Cash,4500000
+Madinaty,90,2,1,3,Garden,North,No,Cash,1300000
+Hadayek October,120,2,1,4,Garden,South,No,Instalment,1500000
+Maadi ,100,2,1,5,Garden,North,No,Cash,1000000
+El Manial,90,2,1,6,Street,South,Yes,Instalment,1300000
+El Nozha,150,3,2,1,Apartment,North,No,Cash,4400000
+El Moneeb,140,3,2,4,Street,South,No,Instalment,3600000
+Zahraa El Maadi,160,3,2,2,Apartment,North,No,Cash,4100000
+El Basatin,140,3,2,2,Apartment,South,Yes,Cash,4100000
+El Sharabiya,150,3,2,4,Garden,South,No,Cash,4600000
+El Mataria,90,2,1,5,Garden,South,No,Cash,1600000
+Imbaba,100,2,1,6,Street,North,No,Instalment,1700000
+Muqattam,120,2,1,1,Apartment,North,No,Cash,1900000
+Hadayek October,110,2,1,4,Garden,South,Yes,Instalment,1500000
+First Settlement,90,2,1,2,Apartment,North,No,Cash,1800000
+Mostorod,180,3,3,5,Street,North,No,Instalment,4500000
+Helwan,120,2,1,3,Garden,North,Yes,Instalment,1800000
+Gesr El Suez,130,2,1,6,Garden,South,Yes,Cash,4100000
+New Sphinx,200,4,3,5,Apartment Building,North,No,Instalment,7600000
+Second Settlement,150,3,2,1,Street,South,No,Cash,4100000
+New Administrative Capital,130,3,2,4,Garden,North,No,Cash,3000000
+El Nozha,120,2,1,2,Garden,South,No,Cash,1300000
+Sayeda Zeinab,110,2,1,4,Garden,North,No,Instalment,1100000
+New Administrative Capital,100,2,1,3,Street,South,Yes,Instalment,1500000
+First Settlement,250,4,3,6,Apartment,North,No,Cash,8700000
+Madinaty,200,4,3,4,Street,South,No,Instalment,6600000
+First Settlement,180,3,3,1,Apartment,South,No,Instalment,4800000
+Madinaty,160,3,3,2,Apartment,South,No,Cash,4400000
+El Waili,90,2,1,4,Garden,North,Yes,Cash,1300000
+El Haram,100,2,1,3,Garden,North,No,Cash,1100000
+Fourth Settlement,120,2,1,5,Street,South,No,Cash,1800000
+Gesr El Suez,140,3,2,2,Apartment,North,Yes,Instalment,3100000
+Abdeen ,200,4,3,1,Garden,North,Yes,Cash,5800000
+Nasr City,140,3,2,4,Apartment,North,No,Cash,4600000
+El Zawya El Hamra,150,3,3,3,Street,South,No,Instalment,4900000
+El Shorouk,180,4,3,5,Garden,North,No,Instalment,3800000
+El Moneeb,90,2,1,6,Garden,South,No,Instalment,1900000
+El Mostakbal,140,3,2,6,Apartment Building,North,No,Instalment,3300000
+El Haram,150,3,3,1,Street,South,Yes,Cash,4700000
+El Omraniya,160,3,3,5,Garden,South,Yes,Cash,4400000
+Sayeda Zeinab,140,3,3,4,Apartment Building,North,Yes,Instalment,3500000
+El Nozha,150,3,2,2,Street,North,Yes,Cash,4500000
+Heliopolis,140,3,2,2,Garden,North,Yes,Cash,3100000
+Nasr City,180,3,3,5,Garden,South,Yes,Cash,4300000
+New Administrative Capital,90,2,1,2,Garden,North,No,Instalment,1600000
+Hadayek October,120,2,1,1,Street,South,No,Instalment,1600000
+El Abbasiya,100,2,1,1,Apartment,North,Yes,Cash,1300000
+El Mohandessin,90,2,1,5,Street,South,Yes,Instalment,1700000
+Kattameya,150,3,2,4,Apartment,North,No,Instalment,3900000
+Kattameya,160,3,2,6,Apartment,South,Yes,Cash,4900000
+Faisal,170,3,3,3,Garden,North,No,Cash,3200000
+Imbaba,180,3,3,2,Garden,South,No,Cash,3400000
+El Omraniya,190,4,3,5,Street,South,Yes,Cash,7700000
+Boulak El Dakrour,90,2,1,4,Apartment,South,No,Instalment,1800000
+Sheikh Zayed,140,3,2,6,Garden,North,Yes,Cash,3600000
+Hadayek El Ahram,130,2,1,1,Apartment,North,No,Cash,3000000
+Shubra El Kheima,120,2,1,4,Street,South,No,Instalment,1300000
+El Mataria,160,3,2,2,Garden,North,Yes,Instalment,4900000
+Nasr City,150,3,2,3,Garden,North,Yes,Instalment,3800000
+Fourth Settlement,140,3,2,4,Apartment Building,North,No,Instalment,3900000
+Third Settlement,130,3,2,2,Street,South,No,Cash,4500000
+New Sphinx,90,2,1,3,Garden,North,No,Cash,1300000
+Sheraton,120,2,1,4,Garden,South,No,Instalment,1500000
+Heliopolis,100,2,1,5,Garden,North,No,Cash,1000000
+Agouza ,90,2,1,6,Street,South,Yes,Instalment,1300000
+Hadayek El Kobba,150,3,2,1,Apartment,North,No,Cash,4400000
+Hadayek El Ahram,140,3,2,4,Street,South,No,Instalment,3600000
+El Mohandessin,160,3,2,2,Apartment,North,No,Cash,4100000
+Faisal,140,3,2,2,Apartment,South,Yes,Cash,4100000
+Gesr El Suez,150,3,2,4,Garden,South,No,Cash,4600000
+Boulak El Dakrour,90,2,1,5,Garden,South,No,Cash,1600000
+Madinaty,100,2,1,6,Street,North,No,Instalment,1700000
+Gesr El Suez,120,2,1,1,Apartment,North,No,Cash,1900000
+Maadi ,110,2,1,4,Garden,South,Yes,Instalment,1500000
+Madinaty,90,2,1,2,Apartment,North,No,Cash,1800000
+El Nozha,180,3,3,5,Street,North,No,Instalment,4500000
+Rod El Farag,120,2,1,3,Garden,North,Yes,Instalment,1800000
+Agouza ,130,2,1,6,Garden,South,Yes,Cash,4100000
+6th of October,200,4,3,5,Apartment Building,North,No,Instalment,7600000
+Shubra El Kheima,150,3,2,1,Street,South,No,Cash,4100000
+Fourth Settlement,130,3,2,4,Garden,North,No,Cash,3000000
+Gesr El Suez,120,2,1,2,Garden,South,No,Cash,1300000
+Heliopolis,110,2,1,4,Garden,North,No,Instalment,1100000
+El Shorouk,100,2,1,3,Street,South,Yes,Instalment,1500000
+El Abbasiya,250,4,3,6,Apartment,North,No,Cash,8700000
+El Rehab,200,4,3,4,Street,South,No,Instalment,6600000
+El Nozha,180,3,3,1,Apartment,South,No,Instalment,4800000
+El Rehab,160,3,3,2,Apartment,South,No,Cash,4400000
+El Abbasiya,90,2,1,4,Garden,North,Yes,Cash,1300000
+Shubra El Kheima,100,2,1,3,Garden,North,No,Cash,1100000
+Sheikh Zayed,120,2,1,5,Street,South,No,Cash,1800000
+Boulak El Dakrour,140,3,2,2,Apartment,North,Yes,Instalment,3100000
+Third Settlement,200,4,3,1,Garden,North,Yes,Cash,5800000
+Sheikh Zayed,140,3,2,4,Apartment,North,No,Cash,4600000
+Kattameya,150,3,3,3,Street,South,No,Instalment,4900000
+El Salam,180,4,3,5,Garden,North,No,Instalment,3800000
+New Sphinx,90,2,1,6,Garden,South,No,Instalment,1900000
+Imbaba,140,3,2,6,Apartment Building,North,No,Instalment,3300000
+El Abbasiya,150,3,3,1,Street,South,Yes,Cash,4700000
+Rod El Farag,160,3,3,5,Garden,South,Yes,Cash,4400000
+Sheraton,140,3,3,4,Apartment Building,North,Yes,Instalment,3500000
+Muqattam,150,3,2,2,Street,North,Yes,Cash,4500000
+Heliopolis,140,3,2,2,Garden,North,Yes,Cash,3100000
+First Settlement,180,3,3,5,Garden,South,Yes,Cash,4300000
+Dokki,90,2,1,2,Garden,North,No,Instalment,1600000
+New Sphinx,120,2,1,1,Street,South,No,Instalment,1600000
+Muqattam,100,2,1,1,Apartment,North,Yes,Cash,1300000
+Hadayek El Kobba,90,2,1,5,Street,South,Yes,Instalment,1700000
+Gesr El Suez,150,3,2,4,Apartment,North,No,Instalment,3900000
+First Settlement,160,3,2,6,Apartment,South,Yes,Cash,4900000
+First Settlement,170,3,3,3,Garden,North,No,Cash,3200000
+Sheraton,180,3,3,2,Garden,South,No,Cash,3400000
+Hadayek El Ahram,190,4,3,5,Street,South,Yes,Cash,7700000
+Sayeda Zeinab,90,2,1,4,Apartment,South,No,Instalment,1800000
+Zamalek,140,3,2,6,Garden,North,Yes,Cash,3600000
+Agouza ,130,2,1,1,Apartment,North,No,Cash,3000000
+El Haram,120,2,1,4,Street,South,No,Instalment,1300000
+Hadayek October,160,3,2,2,Garden,North,Yes,Instalment,4900000
+El Azbakeya,150,3,2,3,Garden,North,Yes,Instalment,3800000
+Faisal,140,3,2,4,Apartment Building,North,No,Instalment,3900000
+Second Settlement,130,3,2,2,Street,South,No,Cash,4500000
+Agouza ,90,2,1,3,Garden,North,No,Cash,1300000
+Maadi ,120,2,1,4,Garden,South,No,Instalment,1500000
+Dokki,100,2,1,5,Garden,North,No,Cash,1000000
+El Shorouk,90,2,1,6,Street,South,Yes,Instalment,1300000
+Abdeen ,150,3,2,1,Apartment,North,No,Cash,4400000
+Madinaty,140,3,2,4,Street,South,No,Instalment,3600000
+El Salam,160,3,2,2,Apartment,North,No,Cash,4100000
+El Salam,140,3,2,2,Apartment,South,Yes,Cash,4100000
+El Omraniya,150,3,2,4,Garden,South,No,Cash,4600000
+Hadayek El Ahram,90,2,1,5,Garden,South,No,Cash,1600000
+Gesr El Suez,100,2,1,6,Street,North,No,Instalment,1700000
+Fourth Settlement,120,2,1,1,Apartment,North,No,Cash,1900000
+Fourth Settlement,110,2,1,4,Garden,South,Yes,Instalment,1500000
+El Abbasiya,90,2,1,2,Apartment,North,No,Cash,1800000
+Maadi ,180,3,3,5,Street,North,No,Instalment,4500000
+Sayeda Zeinab,120,2,1,3,Garden,North,Yes,Instalment,1800000
+El Warraq,130,2,1,6,Garden,South,Yes,Cash,4100000
+Sheraton,200,4,3,5,Apartment Building,North,No,Instalment,7600000
+6th of October,150,3,2,1,Street,South,No,Cash,4100000
+Nasr City,130,3,2,4,Garden,North,No,Cash,3000000
+El Warraq,120,2,1,2,Garden,South,No,Cash,1300000
+Fifth Settlement,110,2,1,4,Garden,North,No,Instalment,1100000
+Zahraa El Maadi,100,2,1,3,Street,South,Yes,Instalment,1500000
+El Faggala,250,4,3,6,Apartment,North,No,Cash,8700000
+El Mataria,200,4,3,4,Street,South,No,Instalment,6600000
+El Azbakeya,180,3,3,1,Apartment,South,No,Instalment,4800000
+First Settlement,160,3,3,2,Apartment,South,No,Cash,4400000
+El Moneeb,90,2,1,4,Garden,North,Yes,Cash,1300000
+Sayeda Zeinab,100,2,1,3,Garden,North,No,Cash,1100000
+6th of October,120,2,1,5,Street,South,No,Cash,1800000
+Badr ,140,3,2,2,Apartment,North,Yes,Instalment,3100000
+Dokki,200,4,3,1,Garden,North,Yes,Cash,5800000
+New Administrative Capital,140,3,2,4,Apartment,North,No,Cash,4600000
+Helwan,150,3,3,3,Street,South,No,Instalment,4900000
+Third Settlement,180,4,3,5,Garden,North,No,Instalment,3800000
+6th of October,90,2,1,6,Garden,South,No,Instalment,1900000
+Zamalek,140,3,2,6,Apartment Building,North,No,Instalment,3300000
+El Faggala,150,3,3,1,Street,South,Yes,Cash,4700000
+El Shorouk,160,3,3,5,Garden,South,Yes,Cash,4400000
+Kattameya,140,3,3,4,Apartment Building,North,Yes,Instalment,3500000
+El Fustat,150,3,2,2,Street,North,Yes,Cash,4500000
+El Moneeb,140,3,2,2,Garden,North,Yes,Cash,3100000
+Helwan,180,3,3,5,Garden,South,Yes,Cash,4300000
+El Mataria,90,2,1,2,Garden,North,No,Instalment,1600000
+Zahraa Nasr City,120,2,1,1,Street,South,No,Instalment,1600000
+El Abbasiya,100,2,1,1,Apartment,North,Yes,Cash,1300000
+El Warraq,90,2,1,5,Street,South,Yes,Instalment,1700000
+Gesr El Suez,150,3,2,4,Apartment,North,No,Instalment,3900000
+El Zawya El Hamra,160,3,2,6,Apartment,South,Yes,Cash,4900000
+El Amireya,170,3,3,3,Garden,North,No,Cash,3200000
+El Azbakeya,180,3,3,2,Garden,South,No,Cash,3400000
+Fourth Settlement,190,4,3,5,Street,South,Yes,Cash,7700000
+Abdeen ,90,2,1,4,Apartment,South,No,Instalment,1800000
+El Abbasiya,140,3,2,6,Garden,North,Yes,Cash,3600000
+Abdeen ,130,2,1,1,Apartment,North,No,Cash,3000000
+Sayeda Zeinab,120,2,1,4,Street,South,No,Instalment,1300000
+Dokki,160,3,2,2,Garden,North,Yes,Instalment,4900000
+El Faggala,150,3,2,3,Garden,North,Yes,Instalment,3800000
+El Obour,140,3,2,4,Apartment Building,North,No,Instalment,3900000
+El Mataria,130,3,2,2,Street,South,No,Cash,4500000
+Abdeen ,90,2,1,3,Garden,North,No,Cash,1300000
+Agouza ,120,2,1,4,Garden,South,No,Instalment,1500000
+El Shorouk,100,2,1,5,Garden,North,No,Cash,1000000
+Hadayek El Kobba,90,2,1,6,Street,South,Yes,Instalment,1300000
+Badr ,150,3,2,1,Apartment,North,No,Cash,4400000
+Rod El Farag,140,3,2,4,Street,South,No,Instalment,3600000
+El Obour,160,3,2,2,Apartment,North,No,Cash,4100000
+Third Settlement,140,3,2,2,Apartment,South,Yes,Cash,4100000
+Ain Shams,150,3,2,4,Garden,South,No,Cash,4600000
+Nasr City,90,2,1,5,Garden,South,No,Cash,1600000
+Sheraton,100,2,1,6,Street,North,No,Instalment,1700000
+El Mostakbal,120,2,1,1,Apartment,North,No,Cash,1900000
+Fifth Settlement,110,2,1,4,Garden,South,Yes,Instalment,1500000
+El Haram,90,2,1,2,Apartment,North,No,Cash,1800000
+Hadayek El Kobba,180,3,3,5,Street,North,No,Instalment,4500000
+Boulak El Dakrour,120,2,1,3,Garden,North,Yes,Instalment,1800000
+Fifth Settlement,130,2,1,6,Garden,South,Yes,Cash,4100000
+El Mostakbal,200,4,3,5,Apartment Building,North,No,Instalment,7600000
+Agouza ,150,3,2,1,Street,South,No,Cash,4100000
+Kattameya,130,3,2,4,Garden,North,No,Cash,3000000
+Badr ,120,2,1,2,Garden,South,No,Cash,1300000
+Nasr City,110,2,1,4,Garden,North,No,Instalment,1100000
+Madinaty,100,2,1,3,Street,South,Yes,Instalment,1500000
+Zamalek,250,4,3,6,Apartment,North,No,Cash,8700000
+Muqattam,200,4,3,4,Street,South,No,Instalment,6600000
+Rod El Farag,180,3,3,1,Apartment,South,No,Instalment,4800000
+Maadi ,160,3,3,2,Apartment,South,No,Cash,4400000
+El Mohandessin,90,2,1,4,Garden,North,Yes,Cash,1300000
+El Faggala,100,2,1,3,Garden,North,No,Cash,1100000
+El Omraniya,120,2,1,5,Street,South,No,Cash,1800000
+Ain Shams,140,3,2,2,Apartment,North,Yes,Instalment,3100000
+6th of October,200,4,3,1,Garden,North,Yes,Cash,5800000
+Zamalek,140,3,2,4,Apartment,North,No,Cash,4600000
+Shubra,150,3,3,3,Street,South,No,Instalment,4900000
+Hadayek October,180,4,3,5,Garden,North,No,Instalment,3800000
+Agouza ,90,2,1,6,Garden,South,No,Instalment,1900000
+Shubra El Kheima,140,3,2,6,Apartment Building,North,No,Instalment,3300000
+El Sharabiya,150,3,3,1,Street,South,Yes,Cash,4700000
+Sheikh Zayed,160,3,3,5,Garden,South,Yes,Cash,4400000
+El Fustat,140,3,3,4,Apartment Building,North,Yes,Instalment,3500000
+El Obour,150,3,2,2,Street,North,Yes,Cash,4500000
+El Fustat,140,3,2,2,Garden,North,Yes,Cash,3100000
+El Waili,180,3,3,5,Garden,South,Yes,Cash,4300000
+El Zawya El Hamra,90,2,1,2,Garden,North,No,Instalment,1600000
+Gesr El Suez,120,2,1,1,Street,South,No,Instalment,1600000
+Madinaty,100,2,1,1,Apartment,North,Yes,Cash,1300000
+El Mohandessin,90,2,1,5,Street,South,Yes,Instalment,1700000
+El Manial,150,3,2,4,Apartment,North,No,Instalment,3900000
+Boulak El Dakrour,160,3,2,6,Apartment,South,Yes,Cash,4900000
+Faisal,170,3,3,3,Garden,North,No,Cash,3200000
+Sayeda Zeinab,180,3,3,2,Garden,South,No,Cash,3400000
+Gesr El Suez,190,4,3,5,Street,South,Yes,Cash,7700000
+El Obour,90,2,1,4,Apartment,South,No,Instalment,1800000
+El Zawya El Hamra,140,3,2,6,Garden,North,Yes,Cash,3600000
+El Salam,130,2,1,1,Apartment,North,No,Cash,3000000
+El Basatin,120,2,1,4,Street,South,No,Instalment,1300000
+Hadayek El Kobba,160,3,2,2,Garden,North,Yes,Instalment,4900000
+El Rehab,150,3,2,3,Garden,North,Yes,Instalment,3800000
+Helwan,140,3,2,4,Apartment Building,North,No,Instalment,3900000
+El Rehab,130,3,2,2,Street,South,No,Cash,4500000
+Dokki,90,2,1,3,Garden,North,No,Cash,1300000
+Maadi ,120,2,1,4,Garden,South,No,Instalment,1500000
+Muqattam,100,2,1,5,Garden,North,No,Cash,1000000
+El Rehab,90,2,1,6,Street,South,Yes,Instalment,1300000
+El Sharabiya,150,3,2,1,Apartment,North,No,Cash,4400000
+El Omraniya,140,3,2,4,Street,South,No,Instalment,3600000
+Zahraa El Maadi,160,3,2,2,Apartment,North,No,Cash,4100000
+New Administrative Capital,140,3,2,2,Apartment,South,Yes,Cash,4100000
+Boulak El Dakrour,150,3,2,4,Garden,South,No,Cash,4600000
+El Mohandessin,90,2,1,5,Garden,South,No,Cash,1600000
+Faisal,100,2,1,6,Street,North,No,Instalment,1700000
+El Basatin,120,2,1,1,Apartment,North,No,Cash,1900000
+Sheikh Zayed,110,2,1,4,Garden,South,Yes,Instalment,1500000
+Nasr City,90,2,1,2,Apartment,North,No,Cash,1800000
+Zahraa Nasr City,180,3,3,5,Street,North,No,Instalment,4500000
+Third Settlement,120,2,1,3,Garden,North,Yes,Instalment,1800000
+Shubra,130,2,1,6,Garden,South,Yes,Cash,4100000
+Kattameya,200,4,3,5,Apartment Building,North,No,Instalment,7600000
+New Administrative Capital,150,3,2,1,Street,South,No,Cash,4100000
+Faisal,130,3,2,4,Garden,North,No,Cash,3000000
+El Abbasiya,120,2,1,2,Garden,South,No,Cash,1300000
+Abdeen ,110,2,1,4,Garden,North,No,Instalment,1100000
+Helwan,100,2,1,3,Street,South,Yes,Instalment,1500000
+Fourth Settlement,250,4,3,6,Apartment,North,No,Cash,8700000
+6th of October,200,4,3,4,Street,South,No,Instalment,6600000
+Shubra El Kheima,180,3,3,1,Apartment,South,No,Instalment,4800000
+Shubra El Kheima,160,3,3,2,Apartment,South,No,Cash,4400000
+Abdeen ,90,2,1,4,Garden,North,Yes,Cash,1300000
+Maadi ,100,2,1,3,Garden,North,No,Cash,1100000
+Fourth Settlement,120,2,1,5,Street,South,No,Cash,1800000
+Nasr City,140,3,2,2,Apartment,North,Yes,Instalment,3100000
+El Manial,200,4,3,1,Garden,North,Yes,Cash,5800000
+El Azbakeya,140,3,2,4,Apartment,North,No,Cash,4600000
+Faisal,150,3,3,3,Street,South,No,Instalment,4900000
+El Warraq,180,4,3,5,Garden,North,No,Instalment,3800000
+Ain Shams,90,2,1,6,Garden,South,No,Instalment,1900000
+El Sharabiya,140,3,2,6,Apartment Building,North,No,Instalment,3300000
+Imbaba,150,3,3,1,Street,South,Yes,Cash,4700000
+Gesr El Suez,160,3,3,5,Garden,South,Yes,Cash,4400000
+Badr ,140,3,3,4,Apartment Building,North,Yes,Instalment,3500000
+Faisal,150,3,2,2,Street,North,Yes,Cash,4500000
+El Salam,140,3,2,2,Garden,North,Yes,Cash,3100000
+Maadi ,180,3,3,5,Garden,South,Yes,Cash,4300000
+Second Settlement,90,2,1,2,Garden,North,No,Instalment,1600000
+Mostorod,120,2,1,1,Street,South,No,Instalment,1600000
+El Faggala,100,2,1,1,Apartment,North,Yes,Cash,1300000
+Rod El Farag,90,2,1,5,Street,South,Yes,Instalment,1700000
+Kattameya,150,3,2,4,Apartment,North,No,Instalment,3900000
+Shubra El Kheima,160,3,2,6,Apartment,South,Yes,Cash,4900000
+Heliopolis,170,3,3,3,Garden,North,No,Cash,3200000
+Sheraton,180,3,3,2,Garden,South,No,Cash,3400000
+Imbaba,190,4,3,5,Street,South,Yes,Cash,7700000
+El Abbasiya,90,2,1,4,Apartment,South,No,Instalment,1800000
+Muqattam,140,3,2,6,Garden,North,Yes,Cash,3600000
+El Waili,130,2,1,1,Apartment,North,No,Cash,3000000
+Dokki,120,2,1,4,Street,South,No,Instalment,1300000
+El Haram,160,3,2,2,Garden,North,Yes,Instalment,4900000
+Zahraa Nasr City,150,3,2,3,Garden,North,Yes,Instalment,3800000
+El Haram,140,3,2,4,Apartment Building,North,No,Instalment,3900000
+Kattameya,130,3,2,2,Street,South,No,Cash,4500000
+Zamalek,90,2,1,3,Garden,North,No,Cash,1300000
+El Mohandessin,120,2,1,4,Garden,South,No,Instalment,1500000
+Gesr El Suez,100,2,1,5,Garden,North,No,Cash,1000000
+Second Settlement,90,2,1,6,Street,South,Yes,Instalment,1300000
+El Nozha,150,3,2,1,Apartment,North,No,Cash,4400000
+El Mataria,140,3,2,4,Street,South,No,Instalment,3600000
+Shubra El Kheima,160,3,2,2,Apartment,North,No,Cash,4100000
+El Basatin,140,3,2,2,Apartment,South,Yes,Cash,4100000
+El Zawya El Hamra,150,3,2,4,Garden,South,No,Cash,4600000
+El Marg,90,2,1,5,Garden,South,No,Cash,1600000
+Hadayek October,100,2,1,6,Street,North,No,Instalment,1700000
+Zahraa Nasr City,120,2,1,1,Apartment,North,No,Cash,1900000
+El Salam,110,2,1,4,Garden,South,Yes,Instalment,1500000
+Badr ,90,2,1,2,Apartment,North,No,Cash,1800000
+El Faggala,180,3,3,5,Street,North,No,Instalment,4500000
+Madinaty,120,2,1,3,Garden,North,Yes,Instalment,1800000
+El Manial,130,2,1,6,Garden,South,Yes,Cash,4100000
+Hadayek El Kobba,200,4,3,5,Apartment Building,North,No,Instalment,7600000
+Ain Shams,150,3,2,1,Street,South,No,Cash,4100000
+El Zawya El Hamra,130,3,2,4,Garden,North,No,Cash,3000000
+Boulak El Dakrour,120,2,1,2,Garden,South,No,Cash,1300000
+Shubra,110,2,1,4,Garden,North,No,Instalment,1100000
+Hadayek October,100,2,1,3,Street,South,Yes,Instalment,1500000
+Fifth Settlement,250,4,3,6,Apartment,North,No,Cash,8700000
+El Amireya,200,4,3,4,Street,South,No,Instalment,6600000
+El Obour,180,3,3,1,Apartment,South,No,Instalment,4800000
+Abdeen ,160,3,3,2,Apartment,South,No,Cash,4400000
+Heliopolis,90,2,1,4,Garden,North,Yes,Cash,1300000
+El Marg,100,2,1,3,Garden,North,No,Cash,1100000
+Shubra,120,2,1,5,Street,South,No,Cash,1800000
+El Nozha,140,3,2,2,Apartment,North,Yes,Instalment,3100000
+Hadayek October,200,4,3,1,Garden,North,Yes,Cash,5800000
+Fifth Settlement,140,3,2,4,Apartment,North,No,Cash,4600000
+El Warraq,150,3,3,3,Street,South,No,Instalment,4900000
+Helwan,180,4,3,5,Garden,North,No,Instalment,3800000
+El Mostakbal,90,2,1,6,Garden,South,No,Instalment,1900000
+6th of October,140,3,2,6,Apartment Building,North,No,Instalment,3300000
+Ain Shams,150,3,3,1,Street,South,Yes,Cash,4700000
+Zamalek,160,3,3,5,Garden,South,Yes,Cash,4400000
+Ain Shams,140,3,3,4,Apartment Building,North,Yes,Instalment,3500000
+Second Settlement,150,3,2,2,Street,North,Yes,Cash,4500000
+Maadi ,140,3,2,2,Garden,North,Yes,Cash,3100000
+Faisal,180,3,3,5,Garden,South,Yes,Cash,4300000
+Maadi ,90,2,1,2,Garden,North,No,Instalment,1600000
+El Abbasiya,120,2,1,1,Street,South,No,Instalment,1600000
+El Waili,100,2,1,1,Apartment,North,Yes,Cash,1300000
+Madinaty,90,2,1,5,Street,South,Yes,Instalment,1700000
+El Azbakeya,150,3,2,4,Apartment,North,No,Instalment,3900000
+El Azbakeya,160,3,2,6,Apartment,South,Yes,Cash,4900000
+Imbaba,170,3,3,3,Garden,North,No,Cash,3200000
+Hadayek El Kobba,180,3,3,2,Garden,South,No,Cash,3400000
+El Salam,190,4,3,5,Street,South,Yes,Cash,7700000
+Sayeda Zeinab,90,2,1,4,Apartment,South,No,Instalment,1800000
+El Waili,140,3,2,6,Garden,North,Yes,Cash,3600000
+El Mostakbal,130,2,1,1,Apartment,North,No,Cash,3000000
+El Warraq,120,2,1,4,Street,South,No,Instalment,1300000
+Abdeen ,160,3,2,2,Garden,North,Yes,Instalment,4900000
+Rod El Farag,150,3,2,3,Garden,North,Yes,Instalment,3800000
+El Zawya El Hamra,140,3,2,4,Apartment Building,North,No,Instalment,3900000
+El Warraq,130,3,2,2,Street,South,No,Cash,4500000
+New Administrative Capital,90,2,1,3,Garden,North,No,Cash,1300000
+Ain Shams,120,2,1,4,Garden,South,No,Instalment,1500000
+El Haram,100,2,1,5,Garden,North,No,Cash,1000000
+El Haram,90,2,1,6,Street,South,Yes,Instalment,1300000
+El Fustat,150,3,2,1,Apartment,North,No,Cash,4400000
+Hadayek El Ahram,140,3,2,4,Street,South,No,Instalment,3600000
+El Nozha,160,3,2,2,Apartment,North,No,Cash,4100000
+New Administrative Capital,140,3,2,2,Apartment,South,Yes,Cash,4100000
+El Marg,150,3,2,4,Garden,South,No,Cash,4600000
+Madinaty,90,2,1,5,Garden,South,No,Cash,1600000
+Muqattam,100,2,1,6,Street,North,No,Instalment,1700000
+El Salam,120,2,1,1,Apartment,North,No,Cash,1900000
+Mostorod,110,2,1,4,Garden,South,Yes,Instalment,1500000
+Helwan,90,2,1,2,Apartment,North,No,Cash,1800000
+El Zawya El Hamra,180,3,3,5,Street,North,No,Instalment,4500000
+Badr ,120,2,1,3,Garden,North,Yes,Instalment,1800000
+El Omraniya,130,2,1,6,Garden,South,Yes,Cash,4100000
+Sheikh Zayed,200,4,3,5,Apartment Building,North,No,Instalment,7600000
+Helwan,150,3,2,1,Street,South,No,Cash,4100000
+El Haram,130,3,2,4,Garden,North,No,Cash,3000000
+El Mohandessin,120,2,1,2,Garden,South,No,Cash,1300000
+Zahraa Nasr City,110,2,1,4,Garden,North,No,Instalment,1100000
+El Waili,100,2,1,3,Street,South,Yes,Instalment,1500000
+El Basatin,250,4,3,6,Apartment,North,No,Cash,8700000
+Hadayek El Ahram,200,4,3,4,Street,South,No,Instalment,6600000
+Fifth Settlement,180,3,3,1,Apartment,South,No,Instalment,4800000
+Fifth Settlement,160,3,3,2,Apartment,South,No,Cash,4400000
+Gesr El Suez,90,2,1,4,Garden,North,Yes,Cash,1300000
+6th of October,100,2,1,3,Garden,North,No,Cash,1100000
+Fourth Settlement,120,2,1,5,Street,South,No,Cash,1800000
+Dokki,140,3,2,2,Apartment,North,Yes,Instalment,3100000
+El Fustat,200,4,3,1,Garden,North,Yes,Cash,5800000
+Third Settlement,140,3,2,4,Apartment,North,No,Cash,4600000
+Badr ,150,3,3,3,Street,South,No,Instalment,4900000
+El Mataria,180,4,3,5,Garden,North,No,Instalment,3800000
+Second Settlement,90,2,1,6,Garden,South,No,Instalment,1900000
+Second Settlement,140,3,2,6,Apartment Building,North,No,Instalment,3300000
+Muqattam,150,3,3,1,Street,South,Yes,Cash,4700000
+New Administrative Capital,160,3,3,5,Garden,South,Yes,Cash,4400000
+Muqattam,140,3,3,4,Apartment Building,North,Yes,Instalment,3500000
+Hadayek El Kobba,150,3,2,2,Street,North,Yes,Cash,4500000
+El Shorouk,140,3,2,2,Garden,North,Yes,Cash,3100000
+Fifth Settlement,180,3,3,5,Garden,South,Yes,Cash,4300000
+El Sharabiya,90,2,1,2,Garden,North,No,Instalment,1600000
+Gesr El Suez,120,2,1,1,Street,South,No,Instalment,1600000
+El Mataria,100,2,1,1,Apartment,North,Yes,Cash,1300000
+Hadayek El Ahram,90,2,1,5,Street,South,Yes,Instalment,1700000
+Hadayek El Ahram,150,3,2,4,Apartment,North,No,Instalment,3900000
+Abdeen ,160,3,2,6,Apartment,South,Yes,Cash,4900000
+El Waili,170,3,3,3,Garden,North,No,Cash,3200000
+El Marg,180,3,3,2,Garden,South,No,Cash,3400000
+Heliopolis,190,4,3,5,Street,South,Yes,Cash,7700000
+Sheikh Zayed,90,2,1,4,Apartment,South,No,Instalment,1800000
+Kattameya,140,3,2,6,Garden,North,Yes,Cash,3600000
+Abdeen ,130,2,1,1,Apartment,North,No,Cash,3000000
+El Sharabiya,120,2,1,4,Street,South,No,Instalment,1300000
+Agouza ,160,3,2,2,Garden,North,Yes,Instalment,4900000
+El Obour,150,3,2,3,Garden,North,Yes,Instalment,3800000
+El Mostakbal,140,3,2,4,Apartment Building,North,No,Instalment,3900000
+El Marg,130,3,2,2,Street,South,No,Cash,4500000
+Zamalek,90,2,1,3,Garden,North,No,Cash,1300000
+Kattameya,120,2,1,4,Garden,South,No,Instalment,1500000
+El Fustat,100,2,1,5,Garden,North,No,Cash,1000000
+Faisal,90,2,1,6,Street,South,Yes,Instalment,1300000
+New Sphinx,150,3,2,1,Apartment,North,No,Cash,4400000
+Sheikh Zayed,140,3,2,4,Street,South,No,Instalment,3600000
+El Marg,160,3,2,2,Apartment,North,No,Cash,4100000
+Sayeda Zeinab,140,3,2,2,Apartment,South,Yes,Cash,4100000
+New Administrative Capital,150,3,2,4,Garden,South,No,Cash,4600000
+Rod El Farag,90,2,1,5,Garden,South,No,Cash,1600000
+Hadayek El Ahram,100,2,1,6,Street,North,No,Instalment,1700000
+El Salam,120,2,1,1,Apartment,North,No,Cash,1900000
+Hadayek October,110,2,1,4,Garden,South,Yes,Instalment,1500000
+El Shorouk,90,2,1,2,Apartment,North,No,Cash,1800000
+El Faggala,180,3,3,5,Street,North,No,Instalment,4500000
+Sheraton,120,2,1,3,Garden,North,Yes,Instalment,1800000
+Abdeen ,130,2,1,6,Garden,South,Yes,Cash,4100000
+Zahraa El Maadi,200,4,3,5,Apartment Building,North,No,Instalment,7600000
+Badr ,150,3,2,1,Street,South,No,Cash,4100000
+El Moneeb,130,3,2,4,Garden,North,No,Cash,3000000
+Heliopolis,120,2,1,2,Garden,South,No,Cash,1300000
+Hadayek El Ahram,110,2,1,4,Garden,North,No,Instalment,1100000
+El Shorouk,100,2,1,3,Street,South,Yes,Instalment,1500000
+Muqattam,250,4,3,6,Apartment,North,No,Cash,8700000
+Sheraton,200,4,3,4,Street,South,No,Instalment,6600000
+Dokki,180,3,3,1,Apartment,South,No,Instalment,4800000
+El Sharabiya,160,3,3,2,Apartment,South,No,Cash,4400000
+El Basatin,90,2,1,4,Garden,North,Yes,Cash,1300000
+Gesr El Suez,100,2,1,3,Garden,North,No,Cash,1100000
+El Moneeb,120,2,1,5,Street,South,No,Cash,1800000
+El Azbakeya,140,3,2,2,Apartment,North,Yes,Instalment,3100000
+Hadayek El Kobba,200,4,3,1,Garden,North,Yes,Cash,5800000
+El Amireya,140,3,2,4,Apartment,North,No,Cash,4600000
+Gesr El Suez,150,3,3,3,Street,South,No,Instalment,4900000
+Maadi ,180,4,3,5,Garden,North,No,Instalment,3800000
+El Fustat,90,2,1,6,Garden,South,No,Instalment,1900000
+Ain Shams,140,3,2,6,Apartment Building,North,No,Instalment,3300000
+Muqattam,150,3,3,1,Street,South,Yes,Cash,4700000
+6th of October,160,3,3,5,Garden,South,Yes,Cash,4400000
+6th of October,140,3,3,4,Apartment Building,North,Yes,Instalment,3500000
+El Rehab,150,3,2,2,Street,North,Yes,Cash,4500000
+Shubra El Kheima,140,3,2,2,Garden,North,Yes,Cash,3100000
+Gesr El Suez,180,3,3,5,Garden,South,Yes,Cash,4300000
+El Fustat,90,2,1,2,Garden,North,No,Instalment,1600000
+El Fustat,120,2,1,1,Street,South,No,Instalment,1600000
+El Waili,100,2,1,1,Apartment,North,Yes,Cash,1300000
+Fifth Settlement,90,2,1,5,Street,South,Yes,Instalment,1700000
+El Mataria,150,3,2,4,Apartment,North,No,Instalment,3900000
+El Mataria,160,3,2,6,Apartment,South,Yes,Cash,4900000
+Shubra,170,3,3,3,Garden,North,No,Cash,3200000
+Fifth Settlement,180,3,3,2,Garden,South,No,Cash,3400000
+El Azbakeya,190,4,3,5,Street,South,Yes,Cash,7700000
+Agouza ,90,2,1,4,Apartment,South,No,Instalment,1800000
+El Haram,140,3,2,6,Garden,North,Yes,Cash,3600000
+Zahraa Nasr City,130,2,1,1,Apartment,North,No,Cash,3000000
+El Faggala,120,2,1,4,Street,South,No,Instalment,1300000
+Badr ,160,3,2,2,Garden,North,Yes,Instalment,4900000
+El Amireya,150,3,2,3,Garden,North,Yes,Instalment,3800000
+Rod El Farag,140,3,2,4,Apartment Building,North,No,Instalment,3900000
+El Omraniya,130,3,2,2,Street,South,No,Cash,4500000
+Agouza ,90,2,1,3,Garden,North,No,Cash,1300000
+El Waili,120,2,1,4,Garden,South,No,Instalment,1500000
+First Settlement,100,2,1,5,Garden,North,No,Cash,1000000
+Agouza ,90,2,1,6,Street,South,Yes,Instalment,1300000
+Helwan,150,3,2,1,Apartment,North,No,Cash,4400000
+Madinaty,140,3,2,4,Street,South,No,Instalment,3600000
+El Faggala,160,3,2,2,Apartment,North,No,Cash,4100000
+New Sphinx,140,3,2,2,Apartment,South,Yes,Cash,4100000
+Second Settlement,150,3,2,4,Garden,South,No,Cash,4600000
+Boulak El Dakrour,90,2,1,5,Garden,South,No,Cash,1600000
+Nasr City,100,2,1,6,Street,North,No,Instalment,1700000
+El Nozha,120,2,1,1,Apartment,North,No,Cash,1900000
+El Zawya El Hamra,110,2,1,4,Garden,South,Yes,Instalment,1500000
+Zahraa El Maadi,90,2,1,2,Apartment,North,No,Cash,1800000
+Faisal,180,3,3,5,Street,North,No,Instalment,4500000
+El Basatin,120,2,1,3,Garden,North,Yes,Instalment,1800000
+El Mataria,130,2,1,6,Garden,South,Yes,Cash,4100000
+Boulak El Dakrour,200,4,3,5,Apartment Building,North,No,Instalment,7600000
+Hadayek El Kobba,150,3,2,1,Street,South,No,Cash,4100000
+El Zawya El Hamra,130,3,2,4,Garden,North,No,Cash,3000000
+Mostorod,120,2,1,2,Garden,South,No,Cash,1300000
+6th of October,110,2,1,4,Garden,North,No,Instalment,1100000
+El Waili,100,2,1,3,Street,South,Yes,Instalment,1500000
+Mostorod,250,4,3,6,Apartment,North,No,Cash,8700000
+Mostorod,200,4,3,4,Street,South,No,Instalment,6600000
+El Mostakbal,180,3,3,1,Apartment,South,No,Instalment,4800000
+El Rehab,160,3,3,2,Apartment,South,No,Cash,4400000
+El Marg,90,2,1,4,Garden,North,Yes,Cash,1300000
+Fourth Settlement,100,2,1,3,Garden,North,No,Cash,1100000
+El Warraq,120,2,1,5,Street,South,No,Cash,1800000
+Mostorod,140,3,2,2,Apartment,North,Yes,Instalment,3100000
+Fifth Settlement,200,4,3,1,Garden,North,Yes,Cash,5800000
+Agouza ,140,3,2,4,Apartment,North,No,Cash,4600000
+Hadayek El Kobba,150,3,3,3,Street,South,No,Instalment,4900000
+El Shorouk,180,4,3,5,Garden,North,No,Instalment,3800000
+Ain Shams,90,2,1,6,Garden,South,No,Instalment,1900000
+Badr ,140,3,2,6,Apartment Building,North,No,Instalment,3300000
+Hadayek October,150,3,3,1,Street,South,Yes,Cash,4700000
+Ain Shams,160,3,3,5,Garden,South,Yes,Cash,4400000
+Second Settlement,140,3,3,4,Apartment Building,North,Yes,Instalment,3500000
+El Sharabiya,150,3,2,2,Street,North,Yes,Cash,4500000
+Shubra,140,3,2,2,Garden,North,Yes,Cash,3100000
+Abdeen ,180,3,3,5,Garden,South,Yes,Cash,4300000
+Fifth Settlement,90,2,1,2,Garden,North,No,Instalment,1600000
+Zahraa El Maadi,120,2,1,1,Street,South,No,Instalment,1600000
+Nasr City,100,2,1,1,Apartment,North,Yes,Cash,1300000
+Abdeen ,90,2,1,5,Street,South,Yes,Instalment,1700000
+El Obour,150,3,2,4,Apartment,North,No,Instalment,3900000
+Sheraton,160,3,2,6,Apartment,South,Yes,Cash,4900000
+Hadayek October,170,3,3,3,Garden,North,No,Cash,3200000
+Mostorod,180,3,3,2,Garden,South,No,Cash,3400000
+Faisal,190,4,3,5,Street,South,Yes,Cash,7700000
+El Manial,90,2,1,4,Apartment,South,No,Instalment,1800000
+El Rehab,140,3,2,6,Garden,North,Yes,Cash,3600000
+El Omraniya,130,2,1,1,Apartment,North,No,Cash,3000000
+Second Settlement,120,2,1,4,Street,South,No,Instalment,1300000
+Shubra,160,3,2,2,Garden,North,Yes,Instalment,4900000
+Agouza ,150,3,2,3,Garden,North,Yes,Instalment,3800000
+Gesr El Suez,140,3,2,4,Apartment Building,North,No,Instalment,3900000
+Abdeen ,130,3,2,2,Street,South,No,Cash,4500000
+Faisal,90,2,1,3,Garden,North,No,Cash,1300000
+Helwan,120,2,1,4,Garden,South,No,Instalment,1500000
+El Haram,100,2,1,5,Garden,North,No,Cash,1000000
+Mostorod,90,2,1,6,Street,South,Yes,Instalment,1300000
+El Abbasiya,150,3,2,1,Apartment,North,No,Cash,4400000
+El Obour,140,3,2,4,Street,South,No,Instalment,3600000
+Fourth Settlement,160,3,2,2,Apartment,North,No,Cash,4100000
+Heliopolis,140,3,2,2,Apartment,South,Yes,Cash,4100000
+Shubra,150,3,2,4,Garden,South,No,Cash,4600000
+El Abbasiya,90,2,1,5,Garden,South,No,Cash,1600000
+El Faggala,100,2,1,6,Street,North,No,Instalment,1700000
+El Manial,120,2,1,1,Apartment,North,No,Cash,1900000
+Fourth Settlement,110,2,1,4,Garden,South,Yes,Instalment,1500000
+El Mataria,90,2,1,2,Apartment,North,No,Cash,1800000
+Badr ,180,3,3,5,Street,North,No,Instalment,4500000
+El Marg,120,2,1,3,Garden,North,Yes,Instalment,1800000
+Imbaba,130,2,1,6,Garden,South,Yes,Cash,4100000
+El Shorouk,200,4,3,5,Apartment Building,North,No,Instalment,7600000
+El Salam,150,3,2,1,Street,South,No,Cash,4100000
+El Obour,130,3,2,4,Garden,North,No,Cash,3000000
+Agouza ,120,2,1,2,Garden,South,No,Cash,1300000
+El Azbakeya,110,2,1,4,Garden,North,No,Instalment,1100000
+Zamalek,100,2,1,3,Street,South,Yes,Instalment,1500000
+Sheikh Zayed,250,4,3,6,Apartment,North,No,Cash,8700000
+El Azbakeya,200,4,3,4,Street,South,No,Instalment,6600000
+El Omraniya,180,3,3,1,Apartment,South,No,Instalment,4800000
+Muqattam,160,3,3,2,Apartment,South,No,Cash,4400000
+Maadi ,90,2,1,4,Garden,North,Yes,Cash,1300000
+Zamalek,100,2,1,3,Garden,North,No,Cash,1100000
+Shubra,120,2,1,5,Street,South,No,Cash,1800000
+Dokki,140,3,2,2,Apartment,North,Yes,Instalment,3100000
+El Mostakbal,200,4,3,1,Garden,North,Yes,Cash,5800000
+Maadi ,140,3,2,4,Apartment,North,No,Cash,4600000
+El Mataria,150,3,3,3,Street,South,No,Instalment,4900000
+Hadayek El Ahram,180,4,3,5,Garden,North,No,Instalment,3800000
+Dokki,90,2,1,6,Garden,South,No,Instalment,1900000
+Third Settlement,140,3,2,6,Apartment Building,North,No,Instalment,3300000
+Kattameya,150,3,3,1,Street,South,Yes,Cash,4700000
+El Moneeb,160,3,3,5,Garden,South,Yes,Cash,4400000
+El Warraq,140,3,3,4,Apartment Building,North,Yes,Instalment,3500000
+Abdeen ,150,3,2,2,Street,North,Yes,Cash,4500000
+El Salam,140,3,2,2,Garden,North,Yes,Cash,3100000
+El Mohandessin,180,3,3,5,Garden,South,Yes,Cash,4300000
+El Haram,90,2,1,2,Garden,North,No,Instalment,1600000
+Fifth Settlement,120,2,1,1,Street,South,No,Instalment,1600000
+Third Settlement,100,2,1,1,Apartment,North,Yes,Cash,1300000
+El Mostakbal,90,2,1,5,Street,South,Yes,Instalment,1700000
+El Rehab,150,3,2,4,Apartment,North,No,Instalment,3900000
+El Zawya El Hamra,160,3,2,6,Apartment,South,Yes,Cash,4900000
+Helwan,170,3,3,3,Garden,North,No,Cash,3200000
+El Mostakbal,180,3,3,2,Garden,South,No,Cash,3400000
+Heliopolis,190,4,3,5,Street,South,Yes,Cash,7700000
+Boulak El Dakrour,90,2,1,4,Apartment,South,No,Instalment,1800000
+Maadi ,140,3,2,6,Garden,North,Yes,Cash,3600000
+El Shorouk,130,2,1,1,Apartment,North,No,Cash,3000000
+Hadayek El Kobba,120,2,1,4,Street,South,No,Instalment,1300000
+First Settlement,160,3,2,2,Garden,North,Yes,Instalment,4900000
+Boulak El Dakrour,150,3,2,3,Garden,North,Yes,Instalment,3800000
+El Mostakbal,140,3,2,4,Apartment Building,North,No,Instalment,3900000
+El Shorouk,130,3,2,2,Street,South,No,Cash,4500000
+Hadayek October,90,2,1,3,Garden,North,No,Cash,1300000
+El Moneeb,120,2,1,4,Garden,South,No,Instalment,1500000
+El Manial,100,2,1,5,Garden,North,No,Cash,1000000
+6th of October,90,2,1,6,Street,South,Yes,Instalment,1300000
+Kattameya,150,3,2,1,Apartment,North,No,Cash,4400000
+Boulak El Dakrour,140,3,2,4,Street,South,No,Instalment,3600000
+Dokki,160,3,2,2,Apartment,North,No,Cash,4100000
+El Warraq,140,3,2,2,Apartment,South,Yes,Cash,4100000
+Shubra El Kheima,150,3,2,4,Garden,South,No,Cash,4600000
+Shubra El Kheima,90,2,1,5,Garden,South,No,Cash,1600000
+Helwan,100,2,1,6,Street,North,No,Instalment,1700000
+Madinaty,120,2,1,1,Apartment,North,No,Cash,1900000
+Shubra El Kheima,110,2,1,4,Garden,South,Yes,Instalment,1500000
+Shubra El Kheima,90,2,1,2,Apartment,North,No,Cash,1800000
+Faisal,180,3,3,5,Street,North,No,Instalment,4500000
+Hadayek October,120,2,1,3,Garden,North,Yes,Instalment,1800000
+El Warraq,130,2,1,6,Garden,South,Yes,Cash,4100000
+Zahraa El Maadi,200,4,3,5,Apartment Building,North,No,Instalment,7600000
+El Salam,150,3,2,1,Street,South,No,Cash,4100000
+Imbaba,130,3,2,4,Garden,North,No,Cash,3000000
+El Mohandessin,120,2,1,2,Garden,South,No,Cash,1300000
+Boulak El Dakrour,110,2,1,4,Garden,North,No,Instalment,1100000
+Ain Shams,100,2,1,3,Street,South,Yes,Instalment,1500000
+First Settlement,250,4,3,6,Apartment,North,No,Cash,8700000
+Agouza ,200,4,3,4,Street,South,No,Instalment,6600000
+Ain Shams,180,3,3,1,Apartment,South,No,Instalment,4800000
+El Mohandessin,160,3,3,2,Apartment,South,No,Cash,4400000
+Kattameya,90,2,1,4,Garden,North,Yes,Cash,1300000
+6th of October,100,2,1,3,Garden,North,No,Cash,1100000
+Hadayek El Kobba,120,2,1,5,Street,South,No,Cash,1800000
+El Marg,140,3,2,2,Apartment,North,Yes,Instalment,3100000
+Dokki,200,4,3,1,Garden,North,Yes,Cash,5800000
+Gesr El Suez,140,3,2,4,Apartment,North,No,Cash,4600000
+First Settlement,150,3,3,3,Street,South,No,Instalment,4900000
+El Sharabiya,180,4,3,5,Garden,North,No,Instalment,3800000
+Hadayek October,90,2,1,6,Garden,South,No,Instalment,1900000
+Zahraa Nasr City,140,3,2,6,Apartment Building,North,No,Instalment,3300000
+El Haram,150,3,3,1,Street,South,Yes,Cash,4700000
+El Nozha,160,3,3,5,Garden,South,Yes,Cash,4400000
+Madinaty,140,3,3,4,Apartment Building,North,Yes,Instalment,3500000
+Madinaty,150,3,2,2,Street,North,Yes,Cash,4500000
+Faisal,140,3,2,2,Garden,North,Yes,Cash,3100000
+Heliopolis,180,3,3,5,Garden,South,Yes,Cash,4300000
+Second Settlement,90,2,1,2,Garden,North,No,Instalment,1600000
+Second Settlement,120,2,1,1,Street,South,No,Instalment,1600000
+Madinaty,100,2,1,1,Apartment,North,Yes,Cash,1300000
+El Mataria,90,2,1,5,Street,South,Yes,Instalment,1700000
+Imbaba,150,3,2,4,Apartment,North,No,Instalment,3900000
+El Warraq,160,3,2,6,Apartment,South,Yes,Cash,4900000
+Fifth Settlement,170,3,3,3,Garden,North,No,Cash,3200000
+Muqattam,180,3,3,2,Garden,South,No,Cash,3400000
+Sheraton,190,4,3,5,Street,South,Yes,Cash,7700000
+El Abbasiya,90,2,1,4,Apartment,South,No,Instalment,1800000
+6th of October,140,3,2,6,Garden,North,Yes,Cash,3600000
+El Rehab,130,2,1,1,Apartment,North,No,Cash,3000000
+Hadayek October,120,2,1,4,Street,South,No,Instalment,1300000
+El Amireya,160,3,2,2,Garden,North,Yes,Instalment,4900000
+El Marg,150,3,2,3,Garden,North,Yes,Instalment,3800000
+El Basatin,140,3,2,4,Apartment Building,North,No,Instalment,3900000
+Ain Shams,130,3,2,2,Street,South,No,Cash,4500000
+Dokki,90,2,1,3,Garden,North,No,Cash,1300000
+Boulak El Dakrour,120,2,1,4,Garden,South,No,Instalment,1500000
+Nasr City,100,2,1,5,Garden,North,No,Cash,1000000
+New Sphinx,90,2,1,6,Street,South,Yes,Instalment,1300000
+Kattameya,150,3,2,1,Apartment,North,No,Cash,4400000
+Mostorod,140,3,2,4,Street,South,No,Instalment,3600000
+Mostorod,160,3,2,2,Apartment,North,No,Cash,4100000
+Sheikh Zayed,140,3,2,2,Apartment,South,Yes,Cash,4100000
+El Abbasiya,150,3,2,4,Garden,South,No,Cash,4600000
+Hadayek El Kobba,90,2,1,5,Garden,South,No,Cash,1600000
+Shubra El Kheima,100,2,1,6,Street,North,No,Instalment,1700000
+El Waili,120,2,1,1,Apartment,North,No,Cash,1900000
+Shubra El Kheima,110,2,1,4,Garden,South,Yes,Instalment,1500000
+El Rehab,90,2,1,2,Apartment,North,No,Cash,1800000
+El Obour,180,3,3,5,Street,North,No,Instalment,4500000
+Fourth Settlement,120,2,1,3,Garden,North,Yes,Instalment,1800000
+El Rehab,130,2,1,6,Garden,South,Yes,Cash,4100000
+Madinaty,200,4,3,5,Apartment Building,North,No,Instalment,7600000
+El Moneeb,150,3,2,1,Street,South,No,Cash,4100000
+First Settlement,130,3,2,4,Garden,North,No,Cash,3000000
+Kattameya,120,2,1,2,Garden,South,No,Cash,1300000
+Muqattam,110,2,1,4,Garden,North,No,Instalment,1100000
+El Amireya,100,2,1,3,Street,South,Yes,Instalment,1500000
+El Fustat,250,4,3,6,Apartment,North,No,Cash,8700000
+El Omraniya,200,4,3,4,Street,South,No,Instalment,6600000
+First Settlement,180,3,3,1,Apartment,South,No,Instalment,4800000
+El Rehab,160,3,3,2,Apartment,South,No,Cash,4400000
+El Obour,90,2,1,4,Garden,North,Yes,Cash,1300000
+El Zawya El Hamra,100,2,1,3,Garden,North,No,Cash,1100000
+Sheikh Zayed,120,2,1,5,Street,South,No,Cash,1800000
+Zamalek,140,3,2,2,Apartment,North,Yes,Instalment,3100000
+El Azbakeya,200,4,3,1,Garden,North,Yes,Cash,5800000
+New Sphinx,140,3,2,4,Apartment,North,No,Cash,4600000
+El Mataria,150,3,3,3,Street,South,No,Instalment,4900000
+Madinaty,180,4,3,5,Garden,North,No,Instalment,3800000
+Faisal,90,2,1,6,Garden,South,No,Instalment,1900000
+Mostorod,140,3,2,6,Apartment Building,North,No,Instalment,3300000
+Zahraa Nasr City,150,3,3,1,Street,South,Yes,Cash,4700000
+Ain Shams,160,3,3,5,Garden,South,Yes,Cash,4400000
+Rod El Farag,140,3,3,4,Apartment Building,North,Yes,Instalment,3500000
+Agouza ,150,3,2,2,Street,North,Yes,Cash,4500000
+Dokki,140,3,2,2,Garden,North,Yes,Cash,3100000
+Ain Shams,180,3,3,5,Garden,South,Yes,Cash,4300000
+El Mohandessin,90,2,1,2,Garden,North,No,Instalment,1600000
+El Warraq,120,2,1,1,Street,South,No,Instalment,1600000
+Helwan,100,2,1,1,Apartment,North,Yes,Cash,1300000
+Faisal,90,2,1,5,Street,South,Yes,Instalment,1700000
+Imbaba,150,3,2,4,Apartment,North,No,Instalment,3900000
+El Fustat,160,3,2,6,Apartment,South,Yes,Cash,4900000
+Faisal,170,3,3,3,Garden,North,No,Cash,3200000
+Zahraa El Maadi,180,3,3,2,Garden,South,No,Cash,3400000
+Hadayek El Kobba,190,4,3,5,Street,South,Yes,Cash,7700000
+El Marg,90,2,1,4,Apartment,South,No,Instalment,1800000
+El Moneeb,140,3,2,6,Garden,North,Yes,Cash,3600000
+El Amireya,130,2,1,1,Apartment,North,No,Cash,3000000
+Hadayek El Ahram,120,2,1,4,Street,South,No,Instalment,1300000
+El Manial,160,3,2,2,Garden,North,Yes,Instalment,4900000
+Zahraa Nasr City,150,3,2,3,Garden,North,Yes,Instalment,3800000
+Heliopolis,140,3,2,4,Apartment Building,North,No,Instalment,3900000
+Gesr El Suez,130,3,2,2,Street,South,No,Cash,4500000
+6th of October,90,2,1,3,Garden,North,No,Cash,1300000
+Maadi ,120,2,1,4,Garden,South,No,Instalment,1500000
+Hadayek October,100,2,1,5,Garden,North,No,Cash,1000000
+El Manial,90,2,1,6,Street,South,Yes,Instalment,1300000
+New Administrative Capital,150,3,2,1,Apartment,North,No,Cash,4400000
+6th of October,140,3,2,4,Street,South,No,Instalment,3600000
+Sayeda Zeinab,160,3,2,2,Apartment,North,No,Cash,4100000
+Kattameya,140,3,2,2,Apartment,South,Yes,Cash,4100000
+El Waili,150,3,2,4,Garden,South,No,Cash,4600000
+Imbaba,90,2,1,5,Garden,South,No,Cash,1600000
+Helwan,100,2,1,6,Street,North,No,Instalment,1700000
+El Haram,120,2,1,1,Apartment,North,No,Cash,1900000
+Rod El Farag,110,2,1,4,Garden,South,Yes,Instalment,1500000
+Zahraa Nasr City,90,2,1,2,Apartment,North,No,Cash,1800000
+Gesr El Suez,180,3,3,5,Street,North,No,Instalment,4500000
+El Omraniya,120,2,1,3,Garden,North,Yes,Instalment,1800000
+El Sharabiya,130,2,1,6,Garden,South,Yes,Cash,4100000
+First Settlement,200,4,3,5,Apartment Building,North,No,Instalment,7600000
+Mostorod,150,3,2,1,Street,South,No,Cash,4100000
+Hadayek El Ahram,130,3,2,4,Garden,North,No,Cash,3000000
+First Settlement,120,2,1,2,Garden,South,No,Cash,1300000
+Second Settlement,110,2,1,4,Garden,North,No,Instalment,1100000
+New Administrative Capital,100,2,1,3,Street,South,Yes,Instalment,1500000
+Dokki,250,4,3,6,Apartment,North,No,Cash,8700000
+6th of October,200,4,3,4,Street,South,No,Instalment,6600000
+El Obour,180,3,3,1,Apartment,South,No,Instalment,4800000
+Helwan,160,3,3,2,Apartment,South,No,Cash,4400000
+Fourth Settlement,90,2,1,4,Garden,North,Yes,Cash,1300000
+Third Settlement,100,2,1,3,Garden,North,No,Cash,1100000
+El Salam,120,2,1,5,Street,South,No,Cash,1800000
+El Salam,140,3,2,2,Apartment,North,Yes,Instalment,3100000
+El Waili,200,4,3,1,Garden,North,Yes,Cash,5800000
+Fifth Settlement,140,3,2,4,Apartment,North,No,Cash,4600000
+El Haram,150,3,3,3,Street,South,No,Instalment,4900000
+Ain Shams,180,4,3,5,Garden,North,No,Instalment,3800000
+Zamalek,90,2,1,6,Garden,South,No,Instalment,1900000
+Second Settlement,140,3,2,6,Apartment Building,North,No,Instalment,3300000
+Hadayek El Kobba,150,3,3,1,Street,South,Yes,Cash,4700000
+Sheraton,160,3,3,5,Garden,South,Yes,Cash,4400000
+El Mostakbal,140,3,3,4,Apartment Building,North,Yes,Instalment,3500000
+Nasr City,150,3,2,2,Street,North,Yes,Cash,4500000
+Boulak El Dakrour,140,3,2,2,Garden,North,Yes,Cash,3100000
+Heliopolis,180,3,3,5,Garden,South,Yes,Cash,4300000
+El Obour,90,2,1,2,Garden,North,No,Instalment,1600000
+New Sphinx,120,2,1,1,Street,South,No,Instalment,1600000
+El Sharabiya,100,2,1,1,Apartment,North,Yes,Cash,1300000
+Sheraton,90,2,1,5,Street,South,Yes,Instalment,1700000
+Sheraton,150,3,2,4,Apartment,North,No,Instalment,3900000
+El Moneeb,160,3,2,6,Apartment,South,Yes,Cash,4900000
+El Azbakeya,170,3,3,3,Garden,North,No,Cash,3200000
+El Mostakbal,180,3,3,2,Garden,South,No,Cash,3400000
+El Abbasiya,190,4,3,5,Street,South,Yes,Cash,7700000
+El Omraniya,90,2,1,4,Apartment,South,No,Instalment,1800000
+New Administrative Capital,140,3,2,6,Garden,North,Yes,Cash,3600000
+El Sharabiya,130,2,1,1,Apartment,North,No,Cash,3000000
+Rod El Farag,120,2,1,4,Street,South,No,Instalment,1300000
+Shubra,160,3,2,2,Garden,North,Yes,Instalment,4900000
+New Sphinx,150,3,2,3,Garden,North,Yes,Instalment,3800000
+Kattameya,140,3,2,4,Apartment Building,North,No,Instalment,3900000
+El Zawya El Hamra,130,3,2,2,Street,South,No,Cash,4500000
+Dokki,90,2,1,3,Garden,North,No,Cash,1300000
+El Faggala,120,2,1,4,Garden,South,No,Instalment,1500000
+El Mohandessin,100,2,1,5,Garden,North,No,Cash,1000000
+Zahraa El Maadi,90,2,1,6,Street,South,Yes,Instalment,1300000
+Maadi ,150,3,2,1,Apartment,North,No,Cash,4400000
+Third Settlement,140,3,2,4,Street,South,No,Instalment,3600000
+Hadayek El Ahram,160,3,2,2,Apartment,North,No,Cash,4100000
+El Azbakeya,140,3,2,2,Apartment,South,Yes,Cash,4100000
+Imbaba,150,3,2,4,Garden,South,No,Cash,4600000
+Ain Shams,90,2,1,5,Garden,South,No,Cash,1600000
+Dokki,100,2,1,6,Street,North,No,Instalment,1700000
+Shubra,120,2,1,1,Apartment,North,No,Cash,1900000
+Sheikh Zayed,110,2,1,4,Garden,South,Yes,Instalment,1500000
+Maadi ,90,2,1,2,Apartment,North,No,Cash,1800000
+El Obour,180,3,3,5,Street,North,No,Instalment,4500000
+New Administrative Capital,120,2,1,3,Garden,North,Yes,Instalment,1800000
+New Sphinx,130,2,1,6,Garden,South,Yes,Cash,4100000
+Gesr El Suez,200,4,3,5,Apartment Building,North,No,Instalment,7600000
+Shubra,150,3,2,1,Street,South,No,Cash,4100000
+Hadayek El Kobba,130,3,2,4,Garden,North,No,Cash,3000000
+El Marg,120,2,1,2,Garden,South,No,Cash,1300000
+Shubra,110,2,1,4,Garden,North,No,Instalment,1100000
+Fourth Settlement,100,2,1,3,Street,South,Yes,Instalment,1500000
+New Administrative Capital,250,4,3,6,Apartment,North,No,Cash,8700000
+Hadayek El Kobba,200,4,3,4,Street,South,No,Instalment,6600000
+El Omraniya,180,3,3,1,Apartment,South,No,Instalment,4800000
+Hadayek El Kobba,160,3,3,2,Apartment,South,No,Cash,4400000
+El Salam,90,2,1,4,Garden,North,Yes,Cash,1300000
+El Salam,100,2,1,3,Garden,North,No,Cash,1100000
+El Haram,120,2,1,5,Street,South,No,Cash,1800000
+El Manial,140,3,2,2,Apartment,North,Yes,Instalment,3100000
+Dokki,200,4,3,1,Garden,North,Yes,Cash,5800000
+El Mataria,140,3,2,4,Apartment,North,No,Cash,4600000
+El Salam,150,3,3,3,Street,South,No,Instalment,4900000
+El Manial,180,4,3,5,Garden,North,No,Instalment,3800000
+Shubra,90,2,1,6,Garden,South,No,Instalment,1900000
+Zamalek,140,3,2,6,Apartment Building,North,No,Instalment,3300000
+El Mohandessin,150,3,3,1,Street,South,Yes,Cash,4700000
+Madinaty,160,3,3,5,Garden,South,Yes,Cash,4400000
+Third Settlement,140,3,3,4,Apartment Building,North,Yes,Instalment,3500000
+Imbaba,150,3,2,2,Street,North,Yes,Cash,4500000
+El Amireya,140,3,2,2,Garden,North,Yes,Cash,3100000
+Shubra El Kheima,180,3,3,5,Garden,South,Yes,Cash,4300000
+Second Settlement,90,2,1,2,Garden,North,No,Instalment,1600000
+Zahraa El Maadi,120,2,1,1,Street,South,No,Instalment,1600000
+El Waili,100,2,1,1,Apartment,North,Yes,Cash,1300000
+Madinaty,90,2,1,5,Street,South,Yes,Instalment,1700000
+Hadayek El Kobba,150,3,2,4,Apartment,North,No,Instalment,3900000
+Hadayek October,160,3,2,6,Apartment,South,Yes,Cash,4900000
+Abdeen ,170,3,3,3,Garden,North,No,Cash,3200000
+Muqattam,180,3,3,2,Garden,South,No,Cash,3400000
+Maadi ,190,4,3,5,Street,South,Yes,Cash,7700000
+Rod El Farag,90,2,1,4,Apartment,South,No,Instalment,1800000
+El Haram,140,3,2,6,Garden,North,Yes,Cash,3600000
+Badr ,130,2,1,1,Apartment,North,No,Cash,3000000
+El Sharabiya,120,2,1,4,Street,South,No,Instalment,1300000
+Rod El Farag,160,3,2,2,Garden,North,Yes,Instalment,4900000
+Second Settlement,150,3,2,3,Garden,North,Yes,Instalment,3800000
+Mostorod,140,3,2,4,Apartment Building,North,No,Instalment,3900000
+Ain Shams,130,3,2,2,Street,South,No,Cash,4500000
+Sayeda Zeinab,90,2,1,3,Garden,North,No,Cash,1300000
+El Waili,120,2,1,4,Garden,South,No,Instalment,1500000
+Maadi ,100,2,1,5,Garden,North,No,Cash,1000000
+El Shorouk,90,2,1,6,Street,South,Yes,Instalment,1300000
+Shubra,150,3,2,1,Apartment,North,No,Cash,4400000
+Faisal,140,3,2,4,Street,South,No,Instalment,3600000
+Gesr El Suez,160,3,2,2,Apartment,North,No,Cash,4100000
+El Shorouk,140,3,2,2,Apartment,South,Yes,Cash,4100000
+El Warraq,150,3,2,4,Garden,South,No,Cash,4600000
+Shubra,90,2,1,5,Garden,South,No,Cash,1600000
+Nasr City,100,2,1,6,Street,North,No,Instalment,1700000
+Helwan,120,2,1,1,Apartment,North,No,Cash,1900000
+Fifth Settlement,110,2,1,4,Garden,South,Yes,Instalment,1500000
+Boulak El Dakrour,90,2,1,2,Apartment,North,No,Cash,1800000
+Third Settlement,180,3,3,5,Street,North,No,Instalment,4500000
+Sheikh Zayed,120,2,1,3,Garden,North,Yes,Instalment,1800000
+First Settlement,130,2,1,6,Garden,South,Yes,Cash,4100000
+Nasr City,200,4,3,5,Apartment Building,North,No,Instalment,7600000
+Third Settlement,150,3,2,1,Street,South,No,Cash,4100000
+Zahraa Nasr City,130,3,2,4,Garden,North,No,Cash,3000000
+Shubra El Kheima,120,2,1,2,Garden,South,No,Cash,1300000
+El Faggala,110,2,1,4,Garden,North,No,Instalment,1100000
+Zahraa Nasr City,100,2,1,3,Street,South,Yes,Instalment,1500000
+6th of October,250,4,3,6,Apartment,North,No,Cash,8700000
+Badr ,200,4,3,4,Street,South,No,Instalment,6600000
+Badr ,180,3,3,1,Apartment,South,No,Instalment,4800000
+Muqattam,160,3,3,2,Apartment,South,No,Cash,4400000
+Mostorod,90,2,1,4,Garden,North,Yes,Cash,1300000
+El Mohandessin,100,2,1,3,Garden,North,No,Cash,1100000
+Ain Shams,120,2,1,5,Street,South,No,Cash,1800000
+El Omraniya,140,3,2,2,Apartment,North,Yes,Instalment,3100000
+El Marg,200,4,3,1,Garden,North,Yes,Cash,5800000
+Hadayek El Ahram,140,3,2,4,Apartment,North,No,Cash,4600000
+Zahraa El Maadi,150,3,3,3,Street,South,No,Instalment,4900000
+Maadi ,180,4,3,5,Garden,North,No,Instalment,3800000
+Agouza ,90,2,1,6,Garden,South,No,Instalment,1900000
+Zamalek,140,3,2,6,Apartment Building,North,No,Instalment,3300000
+El Shorouk,150,3,3,1,Street,South,Yes,Cash,4700000
+Sayeda Zeinab,160,3,3,5,Garden,South,Yes,Cash,4400000
+El Azbakeya,140,3,3,4,Apartment Building,North,Yes,Instalment,3500000
+Shubra El Kheima,150,3,2,2,Street,North,Yes,Cash,4500000
+Nasr City,140,3,2,2,Garden,North,Yes,Cash,3100000
+El Abbasiya,180,3,3,5,Garden,South,Yes,Cash,4300000
+El Faggala,90,2,1,2,Garden,North,No,Instalment,1600000
+Zahraa El Maadi,120,2,1,1,Street,South,No,Instalment,1600000
+New Administrative Capital,100,2,1,1,Apartment,North,Yes,Cash,1300000
+Imbaba,90,2,1,5,Street,South,Yes,Instalment,1700000
+El Rehab,150,3,2,4,Apartment,North,No,Instalment,3900000
+El Amireya,160,3,2,6,Apartment,South,Yes,Cash,4900000
+Sheraton,170,3,3,3,Garden,North,No,Cash,3200000
+Mostorod,180,3,3,2,Garden,South,No,Cash,3400000
+El Azbakeya,190,4,3,5,Street,South,Yes,Cash,7700000
+Dokki,90,2,1,4,Apartment,South,No,Instalment,1800000
+Hadayek El Kobba,140,3,2,6,Garden,North,Yes,Cash,3600000
+El Rehab,130,2,1,1,Apartment,North,No,Cash,3000000
+Hadayek October,120,2,1,4,Street,South,No,Instalment,1300000
+El Haram,160,3,2,2,Garden,North,Yes,Instalment,4900000
+Sayeda Zeinab,150,3,2,3,Garden,North,Yes,Instalment,3800000
+New Sphinx,140,3,2,4,Apartment Building,North,No,Instalment,3900000
+El Basatin,130,3,2,2,Street,South,No,Cash,4500000
+Zahraa Nasr City,90,2,1,3,Garden,North,No,Cash,1300000
+Gesr El Suez,120,2,1,4,Garden,South,No,Instalment,1500000
+Hadayek El Ahram,100,2,1,5,Garden,North,No,Cash,1000000
+Hadayek El Ahram,90,2,1,6,Street,South,Yes,Instalment,1300000
+Maadi ,150,3,2,1,Apartment,North,No,Cash,4400000
+El Mataria,140,3,2,4,Street,South,No,Instalment,3600000
+Heliopolis,160,3,2,2,Apartment,North,No,Cash,4100000
+El Basatin,140,3,2,2,Apartment,South,Yes,Cash,4100000
+Fourth Settlement,150,3,2,4,Garden,South,No,Cash,4600000
+First Settlement,90,2,1,5,Garden,South,No,Cash,1600000
+El Fustat,100,2,1,6,Street,North,No,Instalment,1700000
+El Abbasiya,120,2,1,1,Apartment,North,No,Cash,1900000
+Rod El Farag,110,2,1,4,Garden,South,Yes,Instalment,1500000
+Zahraa El Maadi,90,2,1,2,Apartment,North,No,Cash,1800000
+Badr ,180,3,3,5,Street,North,No,Instalment,4500000
+Abdeen ,120,2,1,3,Garden,North,Yes,Instalment,1800000
+El Mataria,130,2,1,6,Garden,South,Yes,Cash,4100000
+El Shorouk,200,4,3,5,Apartment Building,North,No,Instalment,7600000
+El Mataria,150,3,2,1,Street,South,No,Cash,4100000
+El Haram,130,3,2,4,Garden,North,No,Cash,3000000
+Shubra,120,2,1,2,Garden,South,No,Cash,1300000
+El Obour,110,2,1,4,Garden,North,No,Instalment,1100000
+El Shorouk,100,2,1,3,Street,South,Yes,Instalment,1500000
+El Salam,250,4,3,6,Apartment,North,No,Cash,8700000
+Zamalek,200,4,3,4,Street,South,No,Instalment,6600000
+El Warraq,180,3,3,1,Apartment,South,No,Instalment,4800000
+Mostorod,160,3,3,2,Apartment,South,No,Cash,4400000
+El Faggala,90,2,1,4,Garden,North,Yes,Cash,1300000
+Heliopolis,100,2,1,3,Garden,North,No,Cash,1100000
+Heliopolis,120,2,1,5,Street,South,No,Cash,1800000
+Third Settlement,140,3,2,2,Apartment,North,Yes,Instalment,3100000
+Nasr City,200,4,3,1,Garden,North,Yes,Cash,5800000
+Heliopolis,140,3,2,4,Apartment,North,No,Cash,4600000
+El Obour,150,3,3,3,Street,South,No,Instalment,4900000
+Third Settlement,180,4,3,5,Garden,North,No,Instalment,3800000
+Dokki,90,2,1,6,Garden,South,No,Instalment,1900000
+El Basatin,140,3,2,6,Apartment Building,North,No,Instalment,3300000
+El Faggala,150,3,3,1,Street,South,Yes,Cash,4700000
+Hadayek October,160,3,3,5,Garden,South,Yes,Cash,4400000
+Third Settlement,140,3,3,4,Apartment Building,North,Yes,Instalment,3500000
+El Faggala,150,3,2,2,Street,North,Yes,Cash,4500000
+Third Settlement,140,3,2,2,Garden,North,Yes,Cash,3100000
+Fourth Settlement,180,3,3,5,Garden,South,Yes,Cash,4300000
+Rod El Farag,90,2,1,2,Garden,North,No,Instalment,1600000
+El Manial,120,2,1,1,Street,South,No,Instalment,1600000
+Zahraa Nasr City,100,2,1,1,Apartment,North,Yes,Cash,1300000
+El Azbakeya,90,2,1,5,Street,South,Yes,Instalment,1700000
+Maadi ,150,3,2,4,Apartment,North,No,Instalment,3900000
+Zamalek,160,3,2,6,Apartment,South,Yes,Cash,4900000
+El Haram,170,3,3,3,Garden,North,No,Cash,3200000
+El Sharabiya,180,3,3,2,Garden,South,No,Cash,3400000
+Shubra,190,4,3,5,Street,South,Yes,Cash,7700000
+El Zawya El Hamra,90,2,1,4,Apartment,South,No,Instalment,1800000
+El Azbakeya,140,3,2,6,Garden,North,Yes,Cash,3600000
+El Omraniya,130,2,1,1,Apartment,North,No,Cash,3000000
+Dokki,120,2,1,4,Street,South,No,Instalment,1300000
+Shubra,160,3,2,2,Garden,North,Yes,Instalment,4900000
+Sayeda Zeinab,150,3,2,3,Garden,North,Yes,Instalment,3800000
+Boulak El Dakrour,140,3,2,4,Apartment Building,North,No,Instalment,3900000
+Kattameya,130,3,2,2,Street,South,No,Cash,4500000
+El Manial,90,2,1,3,Garden,North,No,Cash,1300000
+Hadayek El Ahram,120,2,1,4,Garden,South,No,Instalment,1500000
+Muqattam,100,2,1,5,Garden,North,No,Cash,1000000
+Sheraton,90,2,1,6,Street,South,Yes,Instalment,1300000
+El Faggala,150,3,2,1,Apartment,North,No,Cash,4400000
+El Azbakeya,140,3,2,4,Street,South,No,Instalment,3600000
+Mostorod,160,3,2,2,Apartment,North,No,Cash,4100000
+Badr ,140,3,2,2,Apartment,South,Yes,Cash,4100000
+Boulak El Dakrour,150,3,2,4,Garden,South,No,Cash,4600000
+Mostorod,90,2,1,5,Garden,South,No,Cash,1600000
+El Fustat,100,2,1,6,Street,North,No,Instalment,1700000
+Sheikh Zayed,120,2,1,1,Apartment,North,No,Cash,1900000
+El Marg,110,2,1,4,Garden,South,Yes,Instalment,1500000
+New Sphinx,90,2,1,2,Apartment,North,No,Cash,1800000
+Gesr El Suez,180,3,3,5,Street,North,No,Instalment,4500000
+New Administrative Capital,120,2,1,3,Garden,North,Yes,Instalment,1800000
+New Sphinx,130,2,1,6,Garden,South,Yes,Cash,4100000
+Fifth Settlement,200,4,3,5,Apartment Building,North,No,Instalment,7600000
+Agouza ,150,3,2,1,Street,South,No,Cash,4100000
+Sayeda Zeinab,130,3,2,4,Garden,North,No,Cash,3000000
+El Warraq,120,2,1,2,Garden,South,No,Cash,1300000
+El Mostakbal,110,2,1,4,Garden,North,No,Instalment,1100000
+El Mataria,100,2,1,3,Street,South,Yes,Instalment,1500000
+Agouza ,250,4,3,6,Apartment,North,No,Cash,8700000
+New Sphinx,200,4,3,4,Street,South,No,Instalment,6600000
+Madinaty,180,3,3,1,Apartment,South,No,Instalment,4800000
+Imbaba,160,3,3,2,Apartment,South,No,Cash,4400000
+El Rehab,90,2,1,4,Garden,North,Yes,Cash,1300000
+El Obour,100,2,1,3,Garden,North,No,Cash,1100000
+Nasr City,120,2,1,5,Street,South,No,Cash,1800000
+El Mostakbal,140,3,2,2,Apartment,North,Yes,Instalment,3100000
+Nasr City,200,4,3,1,Garden,North,Yes,Cash,5800000
+El Shorouk,140,3,2,4,Apartment,North,No,Cash,4600000
+Agouza ,150,3,3,3,Street,South,No,Instalment,4900000
+Badr ,180,4,3,5,Garden,North,No,Instalment,3800000
+El Waili,90,2,1,6,Garden,South,No,Instalment,1900000
+Zahraa Nasr City,140,3,2,6,Apartment Building,North,No,Instalment,3300000
+El Sharabiya,150,3,3,1,Street,South,Yes,Cash,4700000
+Second Settlement,160,3,3,5,Garden,South,Yes,Cash,4400000
+Hadayek El Ahram,140,3,3,4,Apartment Building,North,Yes,Instalment,3500000
+El Mostakbal,150,3,2,2,Street,North,Yes,Cash,4500000
+Zamalek,140,3,2,2,Garden,North,Yes,Cash,3100000
+El Shorouk,180,3,3,5,Garden,South,Yes,Cash,4300000
+Fourth Settlement,90,2,1,2,Garden,North,No,Instalment,1600000
+Hadayek October,120,2,1,1,Street,South,No,Instalment,1600000
+El Faggala,100,2,1,1,Apartment,North,Yes,Cash,1300000
+El Omraniya,90,2,1,5,Street,South,Yes,Instalment,1700000
+Maadi ,150,3,2,4,Apartment,North,No,Instalment,3900000
+El Rehab,160,3,2,6,Apartment,South,Yes,Cash,4900000
+Faisal,170,3,3,3,Garden,North,No,Cash,3200000
+Rod El Farag,180,3,3,2,Garden,South,No,Cash,3400000
+Second Settlement,190,4,3,5,Street,South,Yes,Cash,7700000
+El Shorouk,90,2,1,4,Apartment,South,No,Instalment,1800000
+El Faggala,140,3,2,6,Garden,North,Yes,Cash,3600000
+Imbaba,130,2,1,1,Apartment,North,No,Cash,3000000
+El Mostakbal,120,2,1,4,Street,South,No,Instalment,1300000
+Fourth Settlement,160,3,2,2,Garden,North,Yes,Instalment,4900000
+First Settlement,150,3,2,3,Garden,North,Yes,Instalment,3800000
+Nasr City,140,3,2,4,Apartment Building,North,No,Instalment,3900000
+Agouza ,130,3,2,2,Street,South,No,Cash,4500000
+El Manial,90,2,1,3,Garden,North,No,Cash,1300000
+El Mohandessin,120,2,1,4,Garden,South,No,Instalment,1500000
+El Moneeb,100,2,1,5,Garden,North,No,Cash,1000000
+El Rehab,90,2,1,6,Street,South,Yes,Instalment,1300000
+El Basatin,150,3,2,1,Apartment,North,No,Cash,4400000
+Third Settlement,140,3,2,4,Street,South,No,Instalment,3600000
+Badr ,160,3,2,2,Apartment,North,No,Cash,4100000
+Rod El Farag,140,3,2,2,Apartment,South,Yes,Cash,4100000
+Nasr City,150,3,2,4,Garden,South,No,Cash,4600000
+El Nozha,90,2,1,5,Garden,South,No,Cash,1600000
+New Sphinx,100,2,1,6,Street,North,No,Instalment,1700000
+Badr ,120,2,1,1,Apartment,North,No,Cash,1900000
+El Obour,110,2,1,4,Garden,South,Yes,Instalment,1500000
+El Fustat,90,2,1,2,Apartment,North,No,Cash,1800000
+El Shorouk,180,3,3,5,Street,North,No,Instalment,4500000
+El Shorouk,120,2,1,3,Garden,North,Yes,Instalment,1800000
+El Fustat,130,2,1,6,Garden,South,Yes,Cash,4100000
+Shubra,200,4,3,5,Apartment Building,North,No,Instalment,7600000
+New Sphinx,150,3,2,1,Street,South,No,Cash,4100000
+El Haram,130,3,2,4,Garden,North,No,Cash,3000000
+Kattameya,120,2,1,2,Garden,South,No,Cash,1300000
+Abdeen ,110,2,1,4,Garden,North,No,Instalment,1100000
+El Mohandessin,100,2,1,3,Street,South,Yes,Instalment,1500000
+6th of October,250,4,3,6,Apartment,North,No,Cash,8700000
+El Zawya El Hamra,200,4,3,4,Street,South,No,Instalment,6600000
+Sheraton,180,3,3,1,Apartment,South,No,Instalment,4800000
+Abdeen ,160,3,3,2,Apartment,South,No,Cash,4400000
+El Marg,90,2,1,4,Garden,North,Yes,Cash,1300000
+Sheikh Zayed,100,2,1,3,Garden,North,No,Cash,1100000
+El Obour,120,2,1,5,Street,South,No,Cash,1800000
+Hadayek El Ahram,140,3,2,2,Apartment,North,Yes,Instalment,3100000
+Madinaty,200,4,3,1,Garden,North,Yes,Cash,5800000
+El Waili,140,3,2,4,Apartment,North,No,Cash,4600000
+Nasr City,150,3,3,3,Street,South,No,Instalment,4900000
+Heliopolis,180,4,3,5,Garden,North,No,Instalment,3800000
+Boulak El Dakrour,90,2,1,6,Garden,South,No,Instalment,1900000
+Nasr City,140,3,2,6,Apartment Building,North,No,Instalment,3300000
+El Zawya El Hamra,150,3,3,1,Street,South,Yes,Cash,4700000
+Agouza ,160,3,3,5,Garden,South,Yes,Cash,4400000
+El Moneeb,140,3,3,4,Apartment Building,North,Yes,Instalment,3500000
+Rod El Farag,150,3,2,2,Street,North,Yes,Cash,4500000
+Imbaba,140,3,2,2,Garden,North,Yes,Cash,3100000
+El Haram,180,3,3,5,Garden,South,Yes,Cash,4300000
+El Omraniya,90,2,1,2,Garden,North,No,Instalment,1600000
+Third Settlement,120,2,1,1,Street,South,No,Instalment,1600000
+Hadayek October,100,2,1,1,Apartment,North,Yes,Cash,1300000
+El Haram,90,2,1,5,Street,South,Yes,Instalment,1700000
+Agouza ,150,3,2,4,Apartment,North,No,Instalment,3900000
+El Zawya El Hamra,160,3,2,6,Apartment,South,Yes,Cash,4900000
+Agouza ,170,3,3,3,Garden,North,No,Cash,3200000
+Imbaba,180,3,3,2,Garden,South,No,Cash,3400000
+El Shorouk,190,4,3,5,Street,South,Yes,Cash,7700000
+El Mataria,90,2,1,4,Apartment,South,No,Instalment,1800000
+Ain Shams,140,3,2,6,Garden,North,Yes,Cash,3600000
+Maadi ,130,2,1,1,Apartment,North,No,Cash,3000000
+El Waili,120,2,1,4,Street,South,No,Instalment,1300000
+El Amireya,160,3,2,2,Garden,North,Yes,Instalment,4900000
+Third Settlement,150,3,2,3,Garden,North,Yes,Instalment,3800000
+El Fustat,140,3,2,4,Apartment Building,North,No,Instalment,3900000
+Zamalek,130,3,2,2,Street,South,No,Cash,4500000
+New Administrative Capital,90,2,1,3,Garden,North,No,Cash,1300000
+Zahraa Nasr City,120,2,1,4,Garden,South,No,Instalment,1500000
+El Shorouk,100,2,1,5,Garden,North,No,Cash,1000000
+Fifth Settlement,90,2,1,6,Street,South,Yes,Instalment,1300000
+El Nozha,150,3,2,1,Apartment,North,No,Cash,4400000
+Gesr El Suez,140,3,2,4,Street,South,No,Instalment,3600000
+Sayeda Zeinab,160,3,2,2,Apartment,North,No,Cash,4100000
+Imbaba,140,3,2,2,Apartment,South,Yes,Cash,4100000
+Fifth Settlement,150,3,2,4,Garden,South,No,Cash,4600000
+Dokki,90,2,1,5,Garden,South,No,Cash,1600000
+Zamalek,100,2,1,6,Street,North,No,Instalment,1700000
+Muqattam,120,2,1,1,Apartment,North,No,Cash,1900000
+Muqattam,110,2,1,4,Garden,South,Yes,Instalment,1500000
+Sheikh Zayed,90,2,1,2,Apartment,North,No,Cash,1800000
+El Salam,180,3,3,5,Street,North,No,Instalment,4500000
+Muqattam,120,2,1,3,Garden,North,Yes,Instalment,1800000
+Fifth Settlement,130,2,1,6,Garden,South,Yes,Cash,4100000
+El Omraniya,200,4,3,5,Apartment Building,North,No,Instalment,7600000
+Helwan,150,3,2,1,Street,South,No,Cash,4100000
+Sheikh Zayed,130,3,2,4,Garden,North,No,Cash,3000000
+Dokki,120,2,1,2,Garden,South,No,Cash,1300000
+El Fustat,110,2,1,4,Garden,North,No,Instalment,1100000
+Maadi ,100,2,1,3,Street,South,Yes,Instalment,1500000
+Shubra,250,4,3,6,Apartment,North,No,Cash,8700000
+New Sphinx,200,4,3,4,Street,South,No,Instalment,6600000
+El Fustat,180,3,3,1,Apartment,South,No,Instalment,4800000
+El Sharabiya,160,3,3,2,Apartment,South,No,Cash,4400000
+Hadayek El Kobba,90,2,1,4,Garden,North,Yes,Cash,1300000
+El Mohandessin,100,2,1,3,Garden,North,No,Cash,1100000
+Heliopolis,120,2,1,5,Street,South,No,Cash,1800000
+Shubra,140,3,2,2,Apartment,North,Yes,Instalment,3100000
+El Abbasiya,200,4,3,1,Garden,North,Yes,Cash,5800000
+Agouza ,140,3,2,4,Apartment,North,No,Cash,4600000
+Heliopolis,150,3,3,3,Street,South,No,Instalment,4900000
+El Shorouk,180,4,3,5,Garden,North,No,Instalment,3800000
+Gesr El Suez,90,2,1,6,Garden,South,No,Instalment,1900000
+El Rehab,140,3,2,6,Apartment Building,North,No,Instalment,3300000
+El Amireya,150,3,3,1,Street,South,Yes,Cash,4700000
+El Amireya,160,3,3,5,Garden,South,Yes,Cash,4400000
+Ain Shams,140,3,3,4,Apartment Building,North,Yes,Instalment,3500000
+Maadi ,150,3,2,2,Street,North,Yes,Cash,4500000
+El Basatin,140,3,2,2,Garden,North,Yes,Cash,3100000
+Ain Shams,180,3,3,5,Garden,South,Yes,Cash,4300000
+El Sharabiya,90,2,1,2,Garden,North,No,Instalment,1600000
+El Faggala,120,2,1,1,Street,South,No,Instalment,1600000
+El Faggala,100,2,1,1,Apartment,North,Yes,Cash,1300000
+El Omraniya,90,2,1,5,Street,South,Yes,Instalment,1700000
+El Rehab,150,3,2,4,Apartment,North,No,Instalment,3900000
+Zamalek,160,3,2,6,Apartment,South,Yes,Cash,4900000
+El Faggala,170,3,3,3,Garden,North,No,Cash,3200000
+Zahraa El Maadi,180,3,3,2,Garden,South,No,Cash,3400000
+Rod El Farag,190,4,3,5,Street,South,Yes,Cash,7700000
+Second Settlement,90,2,1,4,Apartment,South,No,Instalment,1800000
+Zahraa El Maadi,140,3,2,6,Garden,North,Yes,Cash,3600000
+El Azbakeya,130,2,1,1,Apartment,North,No,Cash,3000000
+El Omraniya,120,2,1,4,Street,South,No,Instalment,1300000
+Hadayek El Ahram,160,3,2,2,Garden,North,Yes,Instalment,4900000
+Kattameya,150,3,2,3,Garden,North,Yes,Instalment,3800000
+Heliopolis,140,3,2,4,Apartment Building,North,No,Instalment,3900000
+El Faggala,130,3,2,2,Street,South,No,Cash,4500000
+El Fustat,90,2,1,3,Garden,North,No,Cash,1300000
+Hadayek El Kobba,120,2,1,4,Garden,South,No,Instalment,1500000
+El Omraniya,100,2,1,5,Garden,North,No,Cash,1000000
+Nasr City,90,2,1,6,Street,South,Yes,Instalment,1300000
+Heliopolis,150,3,2,1,Apartment,North,No,Cash,4400000
+El Nozha,140,3,2,4,Street,South,No,Instalment,3600000
+El Abbasiya,160,3,2,2,Apartment,North,No,Cash,4100000
+El Salam,140,3,2,2,Apartment,South,Yes,Cash,4100000
+El Shorouk,150,3,2,4,Garden,South,No,Cash,4600000
+Mostorod,90,2,1,5,Garden,South,No,Cash,1600000
+El Fustat,100,2,1,6,Street,North,No,Instalment,1700000
+Madinaty,120,2,1,1,Apartment,North,No,Cash,1900000
+El Mataria,110,2,1,4,Garden,South,Yes,Instalment,1500000
+Dokki,90,2,1,2,Apartment,North,No,Cash,1800000
+Heliopolis,180,3,3,5,Street,North,No,Instalment,4500000
+Dokki,120,2,1,3,Garden,North,Yes,Instalment,1800000
+El Salam,130,2,1,6,Garden,South,Yes,Cash,4100000
+El Faggala,200,4,3,5,Apartment Building,North,No,Instalment,7600000
+El Mataria,150,3,2,1,Street,South,No,Cash,4100000
+El Manial,130,3,2,4,Garden,North,No,Cash,3000000
+El Sharabiya,120,2,1,2,Garden,South,No,Cash,1300000
+Helwan,110,2,1,4,Garden,North,No,Instalment,1100000
+First Settlement,100,2,1,3,Street,South,Yes,Instalment,1500000
+Agouza ,250,4,3,6,Apartment,North,No,Cash,8700000
+Dokki,200,4,3,4,Street,South,No,Instalment,6600000
+El Rehab,180,3,3,1,Apartment,South,No,Instalment,4800000
+Madinaty,160,3,3,2,Apartment,South,No,Cash,4400000
+Maadi ,90,2,1,4,Garden,North,Yes,Cash,1300000
+El Azbakeya,100,2,1,3,Garden,North,No,Cash,1100000
+Fifth Settlement,120,2,1,5,Street,South,No,Cash,1800000
+Zahraa El Maadi,140,3,2,2,Apartment,North,Yes,Instalment,3100000
+El Moneeb,200,4,3,1,Garden,North,Yes,Cash,5800000
+Shubra El Kheima,140,3,2,4,Apartment,North,No,Cash,4600000
+Shubra El Kheima,150,3,3,3,Street,South,No,Instalment,4900000
+Fifth Settlement,180,4,3,5,Garden,North,No,Instalment,3800000
+Rod El Farag,90,2,1,6,Garden,South,No,Instalment,1900000
+El Haram,140,3,2,6,Apartment Building,North,No,Instalment,3300000
+El Obour,150,3,3,1,Street,South,Yes,Cash,4700000
+Zahraa Nasr City,160,3,3,5,Garden,South,Yes,Cash,4400000
+Hadayek El Kobba,140,3,3,4,Apartment Building,North,Yes,Instalment,3500000
+El Shorouk,150,3,2,2,Street,North,Yes,Cash,4500000
+El Haram,140,3,2,2,Garden,North,Yes,Cash,3100000
+El Zawya El Hamra,180,3,3,5,Garden,South,Yes,Cash,4300000
+El Salam,90,2,1,2,Garden,North,No,Instalment,1600000
+El Manial,120,2,1,1,Street,South,No,Instalment,1600000
+Muqattam,100,2,1,1,Apartment,North,Yes,Cash,1300000
+Helwan,90,2,1,5,Street,South,Yes,Instalment,1700000
+Sayeda Zeinab,150,3,2,4,Apartment,North,No,Instalment,3900000
+El Fustat,160,3,2,6,Apartment,South,Yes,Cash,4900000
+Agouza ,170,3,3,3,Garden,North,No,Cash,3200000
+Kattameya,180,3,3,2,Garden,South,No,Cash,3400000
+New Administrative Capital,190,4,3,5,Street,South,Yes,Cash,7700000
+Fifth Settlement,90,2,1,4,Apartment,South,No,Instalment,1800000
+Fourth Settlement,140,3,2,6,Garden,North,Yes,Cash,3600000
+El Waili,130,2,1,1,Apartment,North,No,Cash,3000000
+Rod El Farag,120,2,1,4,Street,South,No,Instalment,1300000
+El Zawya El Hamra,160,3,2,2,Garden,North,Yes,Instalment,4900000
+Muqattam,150,3,2,3,Garden,North,Yes,Instalment,3800000
+Boulak El Dakrour,140,3,2,4,Apartment Building,North,No,Instalment,3900000
+El Sharabiya,130,3,2,2,Street,South,No,Cash,4500000
+El Warraq,90,2,1,3,Garden,North,No,Cash,1300000
+Sheikh Zayed,120,2,1,4,Garden,South,No,Instalment,1500000
+Boulak El Dakrour,100,2,1,5,Garden,North,No,Cash,1000000
+El Amireya,90,2,1,6,Street,South,Yes,Instalment,1300000
+New Sphinx,150,3,2,1,Apartment,North,No,Cash,4400000
+Fourth Settlement,140,3,2,4,Street,South,No,Instalment,3600000
+El Fustat,160,3,2,2,Apartment,North,No,Cash,4100000
+Hadayek El Ahram,140,3,2,2,Apartment,South,Yes,Cash,4100000
+El Moneeb,150,3,2,4,Garden,South,No,Cash,4600000
+Kattameya,90,2,1,5,Garden,South,No,Cash,1600000
+El Nozha,100,2,1,6,Street,North,No,Instalment,1700000
+Faisal,120,2,1,1,Apartment,North,No,Cash,1900000
+First Settlement,110,2,1,4,Garden,South,Yes,Instalment,1500000
+Helwan,90,2,1,2,Apartment,North,No,Cash,1800000
+El Sharabiya,180,3,3,5,Street,North,No,Instalment,4500000
+El Rehab,120,2,1,3,Garden,North,Yes,Instalment,1800000
+Helwan,130,2,1,6,Garden,South,Yes,Cash,4100000
+Gesr El Suez,200,4,3,5,Apartment Building,North,No,Instalment,7600000
+El Amireya,150,3,2,1,Street,South,No,Cash,4100000
+El Obour,130,3,2,4,Garden,North,No,Cash,3000000
+Kattameya,120,2,1,2,Garden,South,No,Cash,1300000
+Zamalek,110,2,1,4,Garden,North,No,Instalment,1100000
+Hadayek El Kobba,100,2,1,3,Street,South,Yes,Instalment,1500000
+El Basatin,250,4,3,6,Apartment,North,No,Cash,8700000
+El Obour,200,4,3,4,Street,South,No,Instalment,6600000
+Shubra,180,3,3,1,Apartment,South,No,Instalment,4800000
+Second Settlement,160,3,3,2,Apartment,South,No,Cash,4400000
+El Warraq,90,2,1,4,Garden,North,Yes,Cash,1300000
+Boulak El Dakrour,100,2,1,3,Garden,North,No,Cash,1100000
+Rod El Farag,120,2,1,5,Street,South,No,Cash,1800000
+Shubra El Kheima,140,3,2,2,Apartment,North,Yes,Instalment,3100000
+El Mostakbal,200,4,3,1,Garden,North,Yes,Cash,5800000
+El Warraq,140,3,2,4,Apartment,North,No,Cash,4600000
+Third Settlement,150,3,3,3,Street,South,No,Instalment,4900000
+Dokki,180,4,3,5,Garden,North,No,Instalment,3800000
+El Zawya El Hamra,90,2,1,6,Garden,South,No,Instalment,1900000
+El Amireya,140,3,2,6,Apartment Building,North,No,Instalment,3300000
+El Nozha,150,3,3,1,Street,South,Yes,Cash,4700000
+Sayeda Zeinab,160,3,3,5,Garden,South,Yes,Cash,4400000
+El Mostakbal,140,3,3,4,Apartment Building,North,Yes,Instalment,3500000
+El Mostakbal,150,3,2,2,Street,North,Yes,Cash,4500000
+El Fustat,140,3,2,2,Garden,North,Yes,Cash,3100000
+El Zawya El Hamra,180,3,3,5,Garden,South,Yes,Cash,4300000
+El Fustat,90,2,1,2,Garden,North,No,Instalment,1600000
+El Waili,120,2,1,1,Street,South,No,Instalment,1600000
+El Marg,100,2,1,1,Apartment,North,Yes,Cash,1300000
+El Salam,90,2,1,5,Street,South,Yes,Instalment,1700000
+El Amireya,150,3,2,4,Apartment,North,No,Instalment,3900000
+El Waili,160,3,2,6,Apartment,South,Yes,Cash,4900000
+Sheikh Zayed,170,3,3,3,Garden,North,No,Cash,3200000
+El Mohandessin,180,3,3,2,Garden,South,No,Cash,3400000
+Abdeen ,190,4,3,5,Street,South,Yes,Cash,7700000
+Fifth Settlement,90,2,1,4,Apartment,South,No,Instalment,1800000
+Boulak El Dakrour,140,3,2,6,Garden,North,Yes,Cash,3600000
+Zahraa El Maadi,130,2,1,1,Apartment,North,No,Cash,3000000
+Sayeda Zeinab,120,2,1,4,Street,South,No,Instalment,1300000
+Muqattam,160,3,2,2,Garden,North,Yes,Instalment,4900000
+Agouza ,150,3,2,3,Garden,North,Yes,Instalment,3800000
+Rod El Farag,140,3,2,4,Apartment Building,North,No,Instalment,3900000
+New Sphinx,130,3,2,2,Street,South,No,Cash,4500000
+El Omraniya,90,2,1,3,Garden,North,No,Cash,1300000
+6th of October,120,2,1,4,Garden,South,No,Instalment,1500000
+El Amireya,100,2,1,5,Garden,North,No,Cash,1000000
+First Settlement,90,2,1,6,Street,South,Yes,Instalment,1300000
+6th of October,150,3,2,1,Apartment,North,No,Cash,4400000
+El Mohandessin,140,3,2,4,Street,South,No,Instalment,3600000
+Shubra,160,3,2,2,Apartment,North,No,Cash,4100000
+6th of October,140,3,2,2,Apartment,South,Yes,Cash,4100000
+Heliopolis,150,3,2,4,Garden,South,No,Cash,4600000
+El Abbasiya,90,2,1,5,Garden,South,No,Cash,1600000
+El Amireya,100,2,1,6,Street,North,No,Instalment,1700000
+El Marg,120,2,1,1,Apartment,North,No,Cash,1900000
+El Zawya El Hamra,110,2,1,4,Garden,South,Yes,Instalment,1500000
+El Azbakeya,90,2,1,2,Apartment,North,No,Cash,1800000
+El Sharabiya,180,3,3,5,Street,North,No,Instalment,4500000
+El Basatin,120,2,1,3,Garden,North,Yes,Instalment,1800000
+Second Settlement,130,2,1,6,Garden,South,Yes,Cash,4100000
+Hadayek October,200,4,3,5,Apartment Building,North,No,Instalment,7600000
+El Mohandessin,150,3,2,1,Street,South,No,Cash,4100000
+El Waili,130,3,2,4,Garden,North,No,Cash,3000000
+Sayeda Zeinab,120,2,1,2,Garden,South,No,Cash,1300000
+Zahraa El Maadi,110,2,1,4,Garden,North,No,Instalment,1100000
+Zahraa Nasr City,100,2,1,3,Street,South,Yes,Instalment,1500000
+Sheikh Zayed,250,4,3,6,Apartment,North,No,Cash,8700000
+Heliopolis,200,4,3,4,Street,South,No,Instalment,6600000
+El Waili,180,3,3,1,Apartment,South,No,Instalment,4800000
+El Fustat,160,3,3,2,Apartment,South,No,Cash,4400000
+Shubra,90,2,1,4,Garden,North,Yes,Cash,1300000
+Ain Shams,100,2,1,3,Garden,North,No,Cash,1100000
+Zamalek,120,2,1,5,Street,South,No,Cash,1800000
+El Marg,140,3,2,2,Apartment,North,Yes,Instalment,3100000
+El Marg,200,4,3,1,Garden,North,Yes,Cash,5800000
+Sheraton,140,3,2,4,Apartment,North,No,Cash,4600000
+Fifth Settlement,150,3,3,3,Street,South,No,Instalment,4900000
+Faisal,180,4,3,5,Garden,North,No,Instalment,3800000
+El Basatin,90,2,1,6,Garden,South,No,Instalment,1900000
+Hadayek El Ahram,140,3,2,6,Apartment Building,North,No,Instalment,3300000
+El Waili,150,3,3,1,Street,South,Yes,Cash,4700000
+Shubra,160,3,3,5,Garden,South,Yes,Cash,4400000
+El Marg,140,3,3,4,Apartment Building,North,Yes,Instalment,3500000
+Muqattam,150,3,2,2,Street,North,Yes,Cash,4500000
+El Nozha,140,3,2,2,Garden,North,Yes,Cash,3100000
+Shubra,180,3,3,5,Garden,South,Yes,Cash,4300000
+Second Settlement,90,2,1,2,Garden,North,No,Instalment,1600000
+Nasr City,120,2,1,1,Street,South,No,Instalment,1600000
+El Abbasiya,100,2,1,1,Apartment,North,Yes,Cash,1300000
+Hadayek El Kobba,90,2,1,5,Street,South,Yes,Instalment,1700000
+Mostorod,150,3,2,4,Apartment,North,No,Instalment,3900000
+Second Settlement,160,3,2,6,Apartment,South,Yes,Cash,4900000
+El Sharabiya,170,3,3,3,Garden,North,No,Cash,3200000
+Hadayek October,180,3,3,2,Garden,South,No,Cash,3400000
+El Obour,190,4,3,5,Street,South,Yes,Cash,7700000
+Helwan,90,2,1,4,Apartment,South,No,Instalment,1800000
+Hadayek El Ahram,140,3,2,6,Garden,North,Yes,Cash,3600000
+El Amireya,130,2,1,1,Apartment,North,No,Cash,3000000
+Rod El Farag,120,2,1,4,Street,South,No,Instalment,1300000
+Kattameya,160,3,2,2,Garden,North,Yes,Instalment,4900000
+Zahraa Nasr City,150,3,2,3,Garden,North,Yes,Instalment,3800000
+Mostorod,140,3,2,4,Apartment Building,North,No,Instalment,3900000
+Second Settlement,130,3,2,2,Street,South,No,Cash,4500000
+Ain Shams,90,2,1,3,Garden,North,No,Cash,1300000
+El Abbasiya,120,2,1,4,Garden,South,No,Instalment,1500000
+El Azbakeya,100,2,1,5,Garden,North,No,Cash,1000000
+Gesr El Suez,90,2,1,6,Street,South,Yes,Instalment,1300000
+El Obour,150,3,2,1,Apartment,North,No,Cash,4400000
+Zahraa El Maadi,140,3,2,4,Street,South,No,Instalment,3600000
+El Amireya,160,3,2,2,Apartment,North,No,Cash,4100000
+El Nozha,140,3,2,2,Apartment,South,Yes,Cash,4100000
+Heliopolis,150,3,2,4,Garden,South,No,Cash,4600000
+Ain Shams,90,2,1,5,Garden,South,No,Cash,1600000
+El Waili,100,2,1,6,Street,North,No,Instalment,1700000
+Madinaty,120,2,1,1,Apartment,North,No,Cash,1900000
+Zahraa Nasr City,110,2,1,4,Garden,South,Yes,Instalment,1500000
+El Marg,90,2,1,2,Apartment,North,No,Cash,1800000
+El Marg,180,3,3,5,Street,North,No,Instalment,4500000
+New Sphinx,120,2,1,3,Garden,North,Yes,Instalment,1800000
+Kattameya,130,2,1,6,Garden,South,Yes,Cash,4100000
+Helwan,200,4,3,5,Apartment Building,North,No,Instalment,7600000
+Zahraa El Maadi,150,3,2,1,Street,South,No,Cash,4100000
+Abdeen ,130,3,2,4,Garden,North,No,Cash,3000000
+El Zawya El Hamra,120,2,1,2,Garden,South,No,Cash,1300000
+El Salam,110,2,1,4,Garden,North,No,Instalment,1100000
+Zahraa El Maadi,100,2,1,3,Street,South,Yes,Instalment,1500000
+Abdeen ,250,4,3,6,Apartment,North,No,Cash,8700000
+El Mohandessin,200,4,3,4,Street,South,No,Instalment,6600000
+Mostorod,180,3,3,1,Apartment,South,No,Instalment,4800000
+El Mostakbal,160,3,3,2,Apartment,South,No,Cash,4400000
+Sheraton,90,2,1,4,Garden,North,Yes,Cash,1300000
+Rod El Farag,100,2,1,3,Garden,North,No,Cash,1100000
+El Nozha,120,2,1,5,Street,South,No,Cash,1800000
+Abdeen ,140,3,2,2,Apartment,North,Yes,Instalment,3100000
+Fifth Settlement,200,4,3,1,Garden,North,Yes,Cash,5800000
+Hadayek El Ahram,140,3,2,4,Apartment,North,No,Cash,4600000
+El Mataria,150,3,3,3,Street,South,No,Instalment,4900000
+New Sphinx,180,4,3,5,Garden,North,No,Instalment,3800000
+El Moneeb,90,2,1,6,Garden,South,No,Instalment,1900000
+Shubra,140,3,2,6,Apartment Building,North,No,Instalment,3300000
+Fourth Settlement,150,3,3,1,Street,South,Yes,Cash,4700000
+Shubra El Kheima,160,3,3,5,Garden,South,Yes,Cash,4400000
+El Basatin,140,3,3,4,Apartment Building,North,Yes,Instalment,3500000
+Rod El Farag,150,3,2,2,Street,North,Yes,Cash,4500000
+Imbaba,140,3,2,2,Garden,North,Yes,Cash,3100000
+El Abbasiya,180,3,3,5,Garden,South,Yes,Cash,4300000
+Second Settlement,90,2,1,2,Garden,North,No,Instalment,1600000
+Gesr El Suez,120,2,1,1,Street,South,No,Instalment,1600000
+El Salam,100,2,1,1,Apartment,North,Yes,Cash,1300000
+Sheikh Zayed,90,2,1,5,Street,South,Yes,Instalment,1700000
+El Fustat,150,3,2,4,Apartment,North,No,Instalment,3900000
+Sheikh Zayed,160,3,2,6,Apartment,South,Yes,Cash,4900000
+6th of October,170,3,3,3,Garden,North,No,Cash,3200000
+Nasr City,180,3,3,2,Garden,South,No,Cash,3400000
+Badr ,190,4,3,5,Street,South,Yes,Cash,7700000
+El Obour,90,2,1,4,Apartment,South,No,Instalment,1800000
+6th of October,140,3,2,6,Garden,North,Yes,Cash,3600000
+El Fustat,130,2,1,1,Apartment,North,No,Cash,3000000
+El Faggala,120,2,1,4,Street,South,No,Instalment,1300000
+Imbaba,160,3,2,2,Garden,North,Yes,Instalment,4900000
+El Salam,150,3,2,3,Garden,North,Yes,Instalment,3800000
+El Obour,140,3,2,4,Apartment Building,North,No,Instalment,3900000
+El Haram,130,3,2,2,Street,South,No,Cash,4500000
+Hadayek October,90,2,1,3,Garden,North,No,Cash,1300000
+El Nozha,120,2,1,4,Garden,South,No,Instalment,1500000
+El Warraq,100,2,1,5,Garden,North,No,Cash,1000000
+Madinaty,90,2,1,6,Street,South,Yes,Instalment,1300000
+El Marg,150,3,2,1,Apartment,North,No,Cash,4400000
+Third Settlement,140,3,2,4,Street,South,No,Instalment,3600000
+El Zawya El Hamra,160,3,2,2,Apartment,North,No,Cash,4100000
+Sayeda Zeinab,140,3,2,2,Apartment,South,Yes,Cash,4100000
+El Mohandessin,150,3,2,4,Garden,South,No,Cash,4600000
+El Salam,90,2,1,5,Garden,South,No,Cash,1600000
+Shubra,100,2,1,6,Street,North,No,Instalment,1700000
+El Haram,120,2,1,1,Apartment,North,No,Cash,1900000
+Sayeda Zeinab,110,2,1,4,Garden,South,Yes,Instalment,1500000
+Hadayek October,90,2,1,2,Apartment,North,No,Cash,1800000
+Sheikh Zayed,180,3,3,5,Street,North,No,Instalment,4500000
+El Moneeb,120,2,1,3,Garden,North,Yes,Instalment,1800000
+Rod El Farag,130,2,1,6,Garden,South,Yes,Cash,4100000
+El Amireya,200,4,3,5,Apartment Building,North,No,Instalment,7600000
+El Azbakeya,150,3,2,1,Street,South,No,Cash,4100000
+First Settlement,130,3,2,4,Garden,North,No,Cash,3000000
+El Waili,120,2,1,2,Garden,South,No,Cash,1300000
+Ain Shams,110,2,1,4,Garden,North,No,Instalment,1100000
+El Haram,100,2,1,3,Street,South,Yes,Instalment,1500000
+Badr ,250,4,3,6,Apartment,North,No,Cash,8700000
+Zamalek,200,4,3,4,Street,South,No,Instalment,6600000
+Hadayek El Ahram,180,3,3,1,Apartment,South,No,Instalment,4800000
+El Nozha,160,3,3,2,Apartment,South,No,Cash,4400000
+Fourth Settlement,90,2,1,4,Garden,North,Yes,Cash,1300000
+Gesr El Suez,100,2,1,3,Garden,North,No,Cash,1100000
+Boulak El Dakrour,120,2,1,5,Street,South,No,Cash,1800000
+Rod El Farag,140,3,2,2,Apartment,North,Yes,Instalment,3100000
+Kattameya,200,4,3,1,Garden,North,Yes,Cash,5800000
+El Sharabiya,140,3,2,4,Apartment,North,No,Cash,4600000
+El Amireya,150,3,3,3,Street,South,No,Instalment,4900000
+El Manial,180,4,3,5,Garden,North,No,Instalment,3800000
+El Nozha,90,2,1,6,Garden,South,No,Instalment,1900000
+New Administrative Capital,140,3,2,6,Apartment Building,North,No,Instalment,3300000
+Hadayek October,150,3,3,1,Street,South,Yes,Cash,4700000
+Faisal,160,3,3,5,Garden,South,Yes,Cash,4400000
+Shubra,140,3,3,4,Apartment Building,North,Yes,Instalment,3500000
+El Moneeb,150,3,2,2,Street,North,Yes,Cash,4500000
+El Omraniya,140,3,2,2,Garden,North,Yes,Cash,3100000
+El Rehab,180,3,3,5,Garden,South,Yes,Cash,4300000
+El Obour,90,2,1,2,Garden,North,No,Instalment,1600000
+El Fustat,120,2,1,1,Street,South,No,Instalment,1600000
+New Administrative Capital,100,2,1,1,Apartment,North,Yes,Cash,1300000
+Ain Shams,90,2,1,5,Street,South,Yes,Instalment,1700000
+El Rehab,150,3,2,4,Apartment,North,No,Instalment,3900000
+El Marg,160,3,2,6,Apartment,South,Yes,Cash,4900000
+Ain Shams,170,3,3,3,Garden,North,No,Cash,3200000
+El Mataria,180,3,3,2,Garden,South,No,Cash,3400000
+El Azbakeya,190,4,3,5,Street,South,Yes,Cash,7700000
+El Manial,90,2,1,4,Apartment,South,No,Instalment,1800000
+El Moneeb,140,3,2,6,Garden,North,Yes,Cash,3600000
+El Obour,130,2,1,1,Apartment,North,No,Cash,3000000
+El Mostakbal,120,2,1,4,Street,South,No,Instalment,1300000
+Hadayek El Kobba,160,3,2,2,Garden,North,Yes,Instalment,4900000
+Sayeda Zeinab,150,3,2,3,Garden,North,Yes,Instalment,3800000
+Sheraton,140,3,2,4,Apartment Building,North,No,Instalment,3900000
+El Basatin,130,3,2,2,Street,South,No,Cash,4500000
+Boulak El Dakrour,90,2,1,3,Garden,North,No,Cash,1300000
+El Mohandessin,120,2,1,4,Garden,South,No,Instalment,1500000
+Abdeen ,100,2,1,5,Garden,North,No,Cash,1000000
+Abdeen ,90,2,1,6,Street,South,Yes,Instalment,1300000
+Second Settlement,150,3,2,1,Apartment,North,No,Cash,4400000
+Hadayek El Ahram,140,3,2,4,Street,South,No,Instalment,3600000
+El Sharabiya,160,3,2,2,Apartment,North,No,Cash,4100000
+El Abbasiya,140,3,2,2,Apartment,South,Yes,Cash,4100000
+Third Settlement,150,3,2,4,Garden,South,No,Cash,4600000
+El Marg,90,2,1,5,Garden,South,No,Cash,1600000
+New Administrative Capital,100,2,1,6,Street,North,No,Instalment,1700000
+Muqattam,120,2,1,1,Apartment,North,No,Cash,1900000
+First Settlement,110,2,1,4,Garden,South,Yes,Instalment,1500000
+Ain Shams,90,2,1,2,Apartment,North,No,Cash,1800000
+El Mataria,180,3,3,5,Street,North,No,Instalment,4500000
+Mostorod,120,2,1,3,Garden,North,Yes,Instalment,1800000
+Nasr City,130,2,1,6,Garden,South,Yes,Cash,4100000
+Boulak El Dakrour,200,4,3,5,Apartment Building,North,No,Instalment,7600000
+El Mohandessin,150,3,2,1,Street,South,No,Cash,4100000
+El Marg,130,3,2,4,Garden,North,No,Cash,3000000
+El Moneeb,120,2,1,2,Garden,South,No,Cash,1300000
+Agouza ,110,2,1,4,Garden,North,No,Instalment,1100000
+Rod El Farag,100,2,1,3,Street,South,Yes,Instalment,1500000
+Helwan,250,4,3,6,Apartment,North,No,Cash,8700000
+El Salam,200,4,3,4,Street,South,No,Instalment,6600000
+Sheraton,180,3,3,1,Apartment,South,No,Instalment,4800000
+El Abbasiya,160,3,3,2,Apartment,South,No,Cash,4400000
+El Waili,90,2,1,4,Garden,North,Yes,Cash,1300000
+El Faggala,100,2,1,3,Garden,North,No,Cash,1100000
+El Omraniya,120,2,1,5,Street,South,No,Cash,1800000
+Zahraa El Maadi,140,3,2,2,Apartment,North,Yes,Instalment,3100000
+Sheikh Zayed,200,4,3,1,Garden,North,Yes,Cash,5800000
+El Mostakbal,140,3,2,4,Apartment,North,No,Cash,4600000
+El Haram,150,3,3,3,Street,South,No,Instalment,4900000
+Faisal,180,4,3,5,Garden,North,No,Instalment,3800000
+El Mostakbal,90,2,1,6,Garden,South,No,Instalment,1900000
+El Abbasiya,140,3,2,6,Apartment Building,North,No,Instalment,3300000
+Hadayek El Ahram,150,3,3,1,Street,South,Yes,Cash,4700000
+El Marg,160,3,3,5,Garden,South,Yes,Cash,4400000
+El Marg,140,3,3,4,Apartment Building,North,Yes,Instalment,3500000
+Kattameya,150,3,2,2,Street,North,Yes,Cash,4500000
+New Sphinx,140,3,2,2,Garden,North,Yes,Cash,3100000
+Dokki,180,3,3,5,Garden,South,Yes,Cash,4300000
+Third Settlement,90,2,1,2,Garden,North,No,Instalment,1600000
+Dokki,120,2,1,1,Street,South,No,Instalment,1600000
+El Waili,100,2,1,1,Apartment,North,Yes,Cash,1300000
+Madinaty,90,2,1,5,Street,South,Yes,Instalment,1700000
+El Rehab,150,3,2,4,Apartment,North,No,Instalment,3900000
+Agouza ,160,3,2,6,Apartment,South,Yes,Cash,4900000
+Sheraton,170,3,3,3,Garden,North,No,Cash,3200000
+El Waili,180,3,3,2,Garden,South,No,Cash,3400000
+El Manial,190,4,3,5,Street,South,Yes,Cash,7700000
+Third Settlement,90,2,1,4,Apartment,South,No,Instalment,1800000
+El Shorouk,140,3,2,6,Garden,North,Yes,Cash,3600000
+Zahraa Nasr City,130,2,1,1,Apartment,North,No,Cash,3000000
+El Amireya,120,2,1,4,Street,South,No,Instalment,1300000
+Agouza ,160,3,2,2,Garden,North,Yes,Instalment,4900000
+Nasr City,150,3,2,3,Garden,North,Yes,Instalment,3800000
+Sheikh Zayed,140,3,2,4,Apartment Building,North,No,Instalment,3900000
+El Mataria,130,3,2,2,Street,South,No,Cash,4500000
+Boulak El Dakrour,90,2,1,3,Garden,North,No,Cash,1300000
+Sayeda Zeinab,120,2,1,4,Garden,South,No,Instalment,1500000
+Helwan,100,2,1,5,Garden,North,No,Cash,1000000
+Second Settlement,90,2,1,6,Street,South,Yes,Instalment,1300000
+New Sphinx,150,3,2,1,Apartment,North,No,Cash,4400000
+Zamalek,140,3,2,4,Street,South,No,Instalment,3600000
+Sheikh Zayed,160,3,2,2,Apartment,North,No,Cash,4100000
+Badr ,140,3,2,2,Apartment,South,Yes,Cash,4100000
+Muqattam,150,3,2,4,Garden,South,No,Cash,4600000
+Zamalek,90,2,1,5,Garden,South,No,Cash,1600000
+El Fustat,100,2,1,6,Street,North,No,Instalment,1700000
+El Nozha,120,2,1,1,Apartment,North,No,Cash,1900000
+El Fustat,110,2,1,4,Garden,South,Yes,Instalment,1500000
+Hadayek El Kobba,90,2,1,2,Apartment,North,No,Cash,1800000
+Rod El Farag,180,3,3,5,Street,North,No,Instalment,4500000
+El Fustat,120,2,1,3,Garden,North,Yes,Instalment,1800000
+Gesr El Suez,130,2,1,6,Garden,South,Yes,Cash,4100000
+Abdeen ,200,4,3,5,Apartment Building,North,No,Instalment,7600000
+El Shorouk,150,3,2,1,Street,South,No,Cash,4100000
+Maadi ,130,3,2,4,Garden,North,No,Cash,3000000
+Abdeen ,120,2,1,2,Garden,South,No,Cash,1300000
+El Sharabiya,110,2,1,4,Garden,North,No,Instalment,1100000
+New Administrative Capital,100,2,1,3,Street,South,Yes,Instalment,1500000
+Zamalek,250,4,3,6,Apartment,North,No,Cash,8700000
+New Sphinx,200,4,3,4,Street,South,No,Instalment,6600000
+El Warraq,180,3,3,1,Apartment,South,No,Instalment,4800000
+Shubra El Kheima,160,3,3,2,Apartment,South,No,Cash,4400000
+Imbaba,90,2,1,4,Garden,North,Yes,Cash,1300000
+Fifth Settlement,100,2,1,3,Garden,North,No,Cash,1100000
+First Settlement,120,2,1,5,Street,South,No,Cash,1800000
+El Abbasiya,140,3,2,2,Apartment,North,Yes,Instalment,3100000
+El Fustat,200,4,3,1,Garden,North,Yes,Cash,5800000
+Shubra El Kheima,140,3,2,4,Apartment,North,No,Cash,4600000
+Mostorod,150,3,3,3,Street,South,No,Instalment,4900000
+Shubra El Kheima,180,4,3,5,Garden,North,No,Instalment,3800000
+El Azbakeya,90,2,1,6,Garden,South,No,Instalment,1900000
+New Sphinx,140,3,2,6,Apartment Building,North,No,Instalment,3300000
+Shubra,150,3,3,1,Street,South,Yes,Cash,4700000
+Nasr City,160,3,3,5,Garden,South,Yes,Cash,4400000
+El Mataria,140,3,3,4,Apartment Building,North,Yes,Instalment,3500000
+El Omraniya,150,3,2,2,Street,North,Yes,Cash,4500000
+Muqattam,140,3,2,2,Garden,North,Yes,Cash,3100000
+El Abbasiya,180,3,3,5,Garden,South,Yes,Cash,4300000
+El Amireya,90,2,1,2,Garden,North,No,Instalment,1600000
+El Faggala,120,2,1,1,Street,South,No,Instalment,1600000
+Mostorod,100,2,1,1,Apartment,North,Yes,Cash,1300000
+El Warraq,90,2,1,5,Street,South,Yes,Instalment,1700000
+Sheikh Zayed,150,3,2,4,Apartment,North,No,Instalment,3900000
+Fifth Settlement,160,3,2,6,Apartment,South,Yes,Cash,4900000
+Zahraa El Maadi,170,3,3,3,Garden,North,No,Cash,3200000
+Badr ,180,3,3,2,Garden,South,No,Cash,3400000
+New Administrative Capital,190,4,3,5,Street,South,Yes,Cash,7700000
+El Zawya El Hamra,90,2,1,4,Apartment,South,No,Instalment,1800000
+Boulak El Dakrour,140,3,2,6,Garden,North,Yes,Cash,3600000
+El Mohandessin,130,2,1,1,Apartment,North,No,Cash,3000000
+New Administrative Capital,120,2,1,4,Street,South,No,Instalment,1300000
+El Salam,160,3,2,2,Garden,North,Yes,Instalment,4900000
+El Mohandessin,150,3,2,3,Garden,North,Yes,Instalment,3800000
+El Sharabiya,140,3,2,4,Apartment Building,North,No,Instalment,3900000
+Second Settlement,130,3,2,2,Street,South,No,Cash,4500000
+Sheraton,90,2,1,3,Garden,North,No,Cash,1300000
+Shubra,120,2,1,4,Garden,South,No,Instalment,1500000
+El Moneeb,100,2,1,5,Garden,North,No,Cash,1000000
+Zahraa Nasr City,90,2,1,6,Street,South,Yes,Instalment,1300000
+El Basatin,150,3,2,1,Apartment,North,No,Cash,4400000
+El Nozha,140,3,2,4,Street,South,No,Instalment,3600000
+El Marg,160,3,2,2,Apartment,North,No,Cash,4100000
+El Abbasiya,140,3,2,2,Apartment,South,Yes,Cash,4100000
+Hadayek El Kobba,150,3,2,4,Garden,South,No,Cash,4600000
+El Faggala,90,2,1,5,Garden,South,No,Cash,1600000
+Maadi ,100,2,1,6,Street,North,No,Instalment,1700000
+Kattameya,120,2,1,1,Apartment,North,No,Cash,1900000
+Badr ,110,2,1,4,Garden,South,Yes,Instalment,1500000
+El Nozha,90,2,1,2,Apartment,North,No,Cash,1800000
+Helwan,180,3,3,5,Street,North,No,Instalment,4500000
+Shubra El Kheima,120,2,1,3,Garden,North,Yes,Instalment,1800000
+El Basatin,130,2,1,6,Garden,South,Yes,Cash,4100000
+Madinaty,200,4,3,5,Apartment Building,North,No,Instalment,7600000
+Hadayek October,150,3,2,1,Street,South,No,Cash,4100000
+Mostorod,130,3,2,4,Garden,North,No,Cash,3000000
+Fourth Settlement,120,2,1,2,Garden,South,No,Cash,1300000
+El Zawya El Hamra,110,2,1,4,Garden,North,No,Instalment,1100000
+Third Settlement,100,2,1,3,Street,South,Yes,Instalment,1500000
+Gesr El Suez,250,4,3,6,Apartment,North,No,Cash,8700000
+El Obour,200,4,3,4,Street,South,No,Instalment,6600000
+El Nozha,180,3,3,1,Apartment,South,No,Instalment,4800000
+El Manial,160,3,3,2,Apartment,South,No,Cash,4400000
+Agouza ,90,2,1,4,Garden,North,Yes,Cash,1300000
+New Sphinx,100,2,1,3,Garden,North,No,Cash,1100000
+Badr ,120,2,1,5,Street,South,No,Cash,1800000
+Shubra El Kheima,140,3,2,2,Apartment,North,Yes,Instalment,3100000
+Shubra El Kheima,200,4,3,1,Garden,North,Yes,Cash,5800000
+El Faggala,140,3,2,4,Apartment,North,No,Cash,4600000
+Badr ,150,3,3,3,Street,South,No,Instalment,4900000
+El Amireya,180,4,3,5,Garden,North,No,Instalment,3800000
+El Warraq,90,2,1,6,Garden,South,No,Instalment,1900000
+Third Settlement,140,3,2,6,Apartment Building,North,No,Instalment,3300000
+First Settlement,150,3,3,1,Street,South,Yes,Cash,4700000
+Muqattam,130,2,1,6,Garden,South,Yes,Cash,4100000
+Zahraa Nasr City,120,2,1,5,Street,South,No,Cash,1800000
+El Abbasiya,160,3,2,2,Apartment,North,No,Cash,4100000
+El Amireya,90,2,1,4,Apartment,South,No,Instalment,1800000
+Fourth Settlement,120,2,1,2,Garden,South,No,Cash,1300000
+El Zawya El Hamra,100,2,1,1,Apartment,North,Yes,Cash,1300000
+El Sharabiya,140,3,2,4,Apartment Building,North,No,Instalment,3900000
+El Basatin,130,2,1,6,Garden,South,Yes,Cash,4100000
+El Mataria,90,2,1,6,Garden,South,No,Instalment,1900000
+El Mohandessin,160,3,2,2,Garden,North,Yes,Instalment,4900000
+Fifth Settlement,90,2,1,3,Garden,North,No,Cash,1300000
+El Mostakbal,160,3,2,6,Apartment,South,Yes,Cash,4900000
+Mostorod,160,3,2,6,Apartment,South,Yes,Cash,4900000
+El Manial,120,2,1,4,Garden,South,No,Instalment,1500000
+Badr ,140,3,2,2,Apartment,North,Yes,Instalment,3100000
+El Omraniya,90,2,1,2,Apartment,North,No,Cash,1800000
+El Azbakeya,200,4,3,5,Apartment Building,North,No,Instalment,7600000
+El Salam,120,2,1,4,Garden,South,No,Instalment,1500000
+El Shorouk,150,3,2,2,Street,North,Yes,Cash,4500000
+El Mohandessin,130,3,2,2,Street,South,No,Cash,4500000
