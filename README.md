@@ -1,7 +1,6 @@
 # 🏡 House Price Prediction
 
-# Project Overview
-
+Project Overview
 Estimate house prices based on important housing features to support better decision-making for buyers, sellers, and real estate stakeholders.
 
 
