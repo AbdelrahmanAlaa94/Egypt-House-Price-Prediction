@@ -4,6 +4,7 @@ Practice
 
 The interface for house price prediction 
 
-![Image](https://github.com/user-attachments/assets/9a0c3874-5d07-467b-80aa-2c0870a15851)
+![Screenshot (1408)](https://github.com/user-attachments/assets/38606866-60ee-4768-b9c2-2df77a31676e)
 
-![Image](https://github.com/user-attachments/assets/c3c6673e-021a-4119-9491-a5cef8624798)
+![Screenshot (1409)](https://github.com/user-attachments/assets/6698ab16-8b12-4993-869e-d66dc99ce46a)
+
