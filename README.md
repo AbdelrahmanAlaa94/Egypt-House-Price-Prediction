@@ -22,6 +22,8 @@ Estimate house prices based on important housing features to support better deci
 
 
 
+
+
 🌐  The interface for house price prediction 
 
 ![Screenshot (1408)](https://github.com/user-attachments/assets/38606866-60ee-4768-b9c2-2df77a31676e)
