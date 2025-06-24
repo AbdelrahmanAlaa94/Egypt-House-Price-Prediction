@@ -19,9 +19,7 @@ Estimate house prices based on important housing features to support better deci
 
  ✅ Deployed an interactive Streamlit App
 
-
-
-
+🛠 Tools Used: Python (Pandas, Scikit-learn, Seaborn, Matplotlib), Jupyter Notebook, Streamlit
 
 
 🌐  The interface for house price prediction 
