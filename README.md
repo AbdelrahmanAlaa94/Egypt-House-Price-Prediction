@@ -1,5 +1,5 @@
-# 🏡 House Price Prediction
-Practice
+## 🏡 House Price Prediction
+
 
 
 The interface for house price prediction 
